@@ -1,0 +1,6379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sunada\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-07 21:38+0800\n"
+"PO-Revision-Date: 2017-04-09 23:38+0900\n"
+"Last-Translator: sunada <sunada@lincle.biz>\n"
+"Language-Team: sunada@lincle.biz\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .git\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: admin/core/lib/ReduxFramework\n"
+"X-Poedit-SearchPathExcluded-3: assets/vendor\n"
+
+#: addons/system_info.php:84
+msgid ""
+"To copy the system info, click below then press Ctrl + C (PC) or Cmd + C "
+"(Mac)."
+msgstr ""
+"システム情報をコピーするには、下をクリックしてCtrl + C (PC)、またはCmd + C "
+"(Mac)を押します。"
+
+#: admin/core/um-admin-access.php:107 admin/core/um-admin-dashboard.php:127
+#: admin/core/um-admin-redux.php:55
+msgid "Ultimate Member"
+msgstr ""
+
+#: admin/core/um-admin-actions-ajax.php:11
+#: admin/core/um-admin-actions-fields.php:11
+#: admin/core/um-admin-actions-modal.php:98
+msgid "Please login as administrator"
+msgstr "管理者としてログインしてください"
+
+#: admin/core/um-admin-actions-ajax.php:63 core/um-actions-ajax.php:216
+#: core/um-actions-password.php:184 core/um-form.php:125
+msgid "This is not possible for security reasons."
+msgstr "セキュリティ上の理由で不可能です。"
+
+#: admin/core/um-admin-actions-modal.php:23
+msgid "Manage conditional fields support"
+msgstr ""
+
+#: admin/core/um-admin-actions-modal.php:25
+msgid "Add conditional fields support"
+msgstr ""
+
+#: admin/core/um-admin-actions-modal.php:30
+msgid "Reset all rules"
+msgstr "すべてのルールをリセット"
+
+#: admin/core/um-admin-actions-modal.php:123
+msgid "Search Icons..."
+msgstr "アイコンを検索..."
+
+#: admin/core/um-admin-actions-modal.php:144
+msgid "Setup New Field"
+msgstr "新しいフィールドの設定"
+
+#: admin/core/um-admin-actions-modal.php:160
+msgid "Predefined Fields"
+msgstr "定義済みのフィールド"
+
+#: admin/core/um-admin-actions-modal.php:172 admin/templates/role/sync.php:22
+#: core/um-builtin.php:1141
+msgid "None"
+msgstr "なし"
+
+#: admin/core/um-admin-actions-modal.php:176
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+
+#: admin/core/um-admin-actions-modal.php:187
+msgid "You did not create any custom fields"
+msgstr "カスタムフィールドを作成していません"
+
+#: admin/core/um-admin-actions-modal.php:221
+#: admin/core/um-admin-actions-modal.php:291
+msgid "This field type is not setup correcty."
+msgstr "このフィールドタイプは正しく設定されていません。"
+
+#: admin/core/um-admin-actions.php:19 admin/core/um-admin-users.php:362
+#: core/um-user.php:68
+msgid "Community Role"
+msgstr "コミュニティーの権限グループ"
+
+#: admin/core/um-admin-actions.php:79 admin/core/um-admin-actions.php:112
+#: admin/templates/access/settings.php:17
+msgid "Content Availability"
+msgstr "コンテンツの利用可能度"
+
+#: admin/core/um-admin-actions.php:80 admin/core/um-admin-actions.php:113
+#: admin/templates/access/settings.php:23
+msgid "Content accessible to Everyone"
+msgstr "誰もがアクセス可能なコンテンツ"
+
+#: admin/core/um-admin-actions.php:81 admin/core/um-admin-actions.php:114
+#: admin/templates/access/settings.php:24
+msgid "Content accessible to Logged Out Users"
+msgstr "ログアウトユーザーがアクセスできるコンテンツ"
+
+#: admin/core/um-admin-actions.php:82 admin/core/um-admin-actions.php:115
+#: admin/templates/access/settings.php:25
+msgid "Content accessible to Logged In Users"
+msgstr "ログインユーザーがアクセスできるコンテンツ"
+
+#: admin/core/um-admin-actions.php:87 admin/core/um-admin-actions.php:120
+msgid "Roles who can see the content"
+msgstr "コンテンツを見ることができる権限グループ"
+
+#: admin/core/um-admin-actions.php:91
+msgid "This is applicable only if you restrict the content to logged-in users."
+msgstr "ログインユーザーへコンテンツを制限する場合にのみ適用されます。"
+
+#: admin/core/um-admin-actions.php:95 admin/core/um-admin-actions.php:134
+msgid "Content Restriction Redirect URL"
+msgstr "コンテンツ制限のリダイレクトURL"
+
+#: admin/core/um-admin-actions.php:97 admin/core/um-admin-actions.php:130
+#: admin/core/um-admin-actions.php:137
+msgid "Users who cannot see content will get redirected to that URL."
+msgstr ""
+"コンテンツを見ることができないユーザーは、そのURLにリダイレクトされます。"
+
+#: admin/core/um-admin-actions.php:210
+msgid "This is a translation of UM profile page?"
+msgstr "これはUMプロフィールページの翻訳ですか?"
+
+#: admin/core/um-admin-actions.php:216
+msgid "This is a translation of UM account page?"
+msgstr "これはUMアカウントページの翻訳ですか?"
+
+#: admin/core/um-admin-actions.php:297
+#, php-format
+msgid "Duplicate of %s"
+msgstr "%sの複製"
+
+#: admin/core/um-admin-builder.php:92 admin/core/um-admin-builder.php:158
+#: admin/core/um-admin-dragdrop.php:146
+msgid "Add Row"
+msgstr "行を追加"
+
+#: admin/core/um-admin-builder.php:93 admin/core/um-admin-builder.php:159
+#: admin/core/um-admin-dragdrop.php:147
+msgid "Edit Row"
+msgstr "行を編集"
+
+#: admin/core/um-admin-builder.php:162 admin/core/um-admin-dragdrop.php:149
+#: admin/core/um-admin-dragdrop.php:163 admin/core/um-admin-dragdrop.php:188
+msgid "Delete Row"
+msgstr "行を削除"
+
+#: admin/core/um-admin-columns.php:25
+msgid "Duplicate"
+msgstr "複製"
+
+#: admin/core/um-admin-columns.php:47 admin/core/um-admin-columns.php:65
+msgid "ID"
+msgstr "ID"
+
+#: admin/core/um-admin-columns.php:48 admin/core/um-admin-columns.php:66
+msgid "Title"
+msgstr "タイトル"
+
+#: admin/core/um-admin-columns.php:49
+msgid "Type"
+msgstr "タイプ"
+
+#: admin/core/um-admin-columns.php:50 admin/core/um-admin-columns.php:67
+#: admin/core/um-admin-metabox.php:241 admin/core/um-admin-metabox.php:283
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: admin/core/um-admin-columns.php:51 admin/core/um-admin-columns.php:68
+msgid "Date"
+msgstr "日付"
+
+#: admin/core/um-admin-dashboard.php:44
+#, php-format
+msgid ""
+"If you like Ultimate Member please consider leaving a %s&#9733;&#9733;&#9733;"
+"&#9733;&#9733;%s review. It will help us to grow the plugin and make it more "
+"popular. Thank you."
+msgstr ""
+"Ultimate Memberが気に入った方は%s&#9733;&#9733;&#9733;&#9733;&#9733;%sレ"
+"ビューを残してください。 プラグインをより人気にして成長させるのに役立つでしょ"
+"う。 ありがとうございました。"
+
+#: admin/core/um-admin-dashboard.php:44
+msgid "Thanks :)"
+msgstr "ありがとう :)"
+
+#: admin/core/um-admin-dashboard.php:130
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: admin/core/um-admin-dashboard.php:133
+#, php-format
+msgid "%s | Ultimate Member"
+msgstr ""
+
+#: admin/core/um-admin-dashboard.php:143 core/um-taxonomies.php:18
+msgid "Forms"
+msgstr "フォーム"
+
+#: admin/core/um-admin-dashboard.php:144 core/um-taxonomies.php:36
+msgid "User Roles"
+msgstr "ユーザー権限グループ"
+
+#: admin/core/um-admin-dashboard.php:147 core/um-taxonomies.php:56
+msgid "Member Directories"
+msgstr "メンバーディレクトリ"
+
+#: admin/core/um-admin-dashboard.php:159 core/um-filters-addons.php:26
+msgid "Extensions"
+msgstr "拡張機能"
+
+#: admin/core/um-admin-dashboard.php:177
+msgid "Users Overview"
+msgstr "ユーザーの概要"
+
+#: admin/core/um-admin-dashboard.php:179
+msgid "Latest from our blog"
+msgstr "ブログからの最新情報"
+
+#: admin/core/um-admin-dashboard.php:181
+msgid "Purge Temp Files"
+msgstr "一時ファイルをパージする"
+
+#: admin/core/um-admin-dashboard.php:182
+msgid "User Cache"
+msgstr "ユーザーキャッシュ"
+
+#: admin/core/um-admin-dashboard.php:185 admin/core/um-admin-dashboard.php:187
+#: admin/core/um-admin-dashboard.php:189
+msgid "Language"
+msgstr "言語"
+
+#: admin/core/um-admin-functions.php:28 admin/core/um-admin-functions.php:31
+msgid "Form updated."
+msgstr "フォームを更新しました。"
+
+#: admin/core/um-admin-functions.php:29 admin/core/um-admin-functions.php:47
+msgid "Custom field updated."
+msgstr "カスタムフィールドを更新しました。"
+
+#: admin/core/um-admin-functions.php:30 admin/core/um-admin-functions.php:48
+msgid "Custom field deleted."
+msgstr "カスタムフィールドを削除しました。"
+
+#: admin/core/um-admin-functions.php:32
+msgid "Form restored to revision."
+msgstr "リビジョンからフォームが復元されました。"
+
+#: admin/core/um-admin-functions.php:33
+msgid "Form created."
+msgstr "フォームを作成しました。"
+
+#: admin/core/um-admin-functions.php:34
+msgid "Form saved."
+msgstr "フォームを保存しました。"
+
+#: admin/core/um-admin-functions.php:35
+msgid "Form submitted."
+msgstr "フォームが送信されました。"
+
+#: admin/core/um-admin-functions.php:36
+msgid "Form scheduled."
+msgstr "フォームがスケジュールされました。"
+
+#: admin/core/um-admin-functions.php:37
+msgid "Form draft updated."
+msgstr "フォームの下書きが更新されました。"
+
+#: admin/core/um-admin-functions.php:46 admin/core/um-admin-functions.php:49
+msgid "Role updated."
+msgstr "権限グループが更新されました。"
+
+#: admin/core/um-admin-functions.php:50
+msgid "Role restored to revision."
+msgstr "リビジョンから権限グループが復元されました。"
+
+#: admin/core/um-admin-functions.php:51
+msgid "Role created."
+msgstr "権限グループが作成されました。"
+
+#: admin/core/um-admin-functions.php:52
+msgid "Role saved."
+msgstr "権限グループが保存されました。"
+
+#: admin/core/um-admin-functions.php:53
+msgid "Role submitted."
+msgstr "権限グループが送信されました。"
+
+#: admin/core/um-admin-functions.php:54
+msgid "Role scheduled."
+msgstr "権限グループがスケジュールされました。"
+
+#: admin/core/um-admin-functions.php:55
+msgid "Role draft updated."
+msgstr "権限グループの下書きを更新しました。"
+
+#: admin/core/um-admin-metabox.php:115 core/um-builtin.php:1011
+#: core/um-builtin.php:1026 um-config.php:159 um-config.php:169
+#: um-config.php:179 um-config.php:189 um-config.php:219 um-config.php:419
+#: um-config.php:428 um-config.php:438 um-config.php:448 um-config.php:480
+#: um-config.php:511 um-config.php:520 um-config.php:540 um-config.php:1332
+msgid "Yes"
+msgstr ""
+
+#: admin/core/um-admin-metabox.php:116 admin/core/um-admin-roles.php:60
+#: core/um-actions-account.php:41 core/um-builtin.php:1010
+#: core/um-builtin.php:1011 core/um-builtin.php:1025 core/um-builtin.php:1026
+#: um-config.php:160 um-config.php:170 um-config.php:180 um-config.php:190
+#: um-config.php:220 um-config.php:420 um-config.php:429 um-config.php:439
+#: um-config.php:449 um-config.php:481 um-config.php:512 um-config.php:521
+#: um-config.php:541 um-config.php:1333
+msgid "No"
+msgstr ""
+
+#: admin/core/um-admin-metabox.php:236
+msgid "General Options"
+msgstr "一般オプション"
+
+#: admin/core/um-admin-metabox.php:237
+msgid "Profile Card"
+msgstr "プロフィールカード"
+
+#: admin/core/um-admin-metabox.php:238
+msgid "Search Options"
+msgstr "検索オプション"
+
+#: admin/core/um-admin-metabox.php:239
+msgid "Results &amp; Pagination"
+msgstr "結果&amp;ページ送り"
+
+#: admin/core/um-admin-metabox.php:243
+msgid "Styling: General"
+msgstr "スタイリング: 一般"
+
+#: admin/core/um-admin-metabox.php:245
+msgid "Styling: Profile Card"
+msgstr "スタイリング: プロフィールカード"
+
+#: admin/core/um-admin-metabox.php:254
+msgid "Sync with WordPress Role"
+msgstr "WordPress権限グループとの同期"
+
+#: admin/core/um-admin-metabox.php:256
+msgid "Administrative Permissions"
+msgstr "管理のアクセス許可"
+
+#: admin/core/um-admin-metabox.php:258
+msgid "General Permissions"
+msgstr "一般のアクセス許可"
+
+#: admin/core/um-admin-metabox.php:260
+msgid "Profile Access"
+msgstr "プロフィールアクセス"
+
+#: admin/core/um-admin-metabox.php:262
+msgid "Homepage Options"
+msgstr "ホームページオプション"
+
+#: admin/core/um-admin-metabox.php:264
+msgid "Registration Options"
+msgstr "新規登録オプション"
+
+#: admin/core/um-admin-metabox.php:266
+msgid "Login Options"
+msgstr "ログインオプション"
+
+#: admin/core/um-admin-metabox.php:268
+msgid "Logout Options"
+msgstr "ログアウトオプション"
+
+#: admin/core/um-admin-metabox.php:270
+msgid "Delete Options"
+msgstr "削除オプション"
+
+#: admin/core/um-admin-metabox.php:281
+msgid "Select Form Type"
+msgstr "フォームタイプを選択"
+
+#: admin/core/um-admin-metabox.php:282
+msgid "Form Builder"
+msgstr "フォームビルダー"
+
+#: admin/core/um-admin-metabox.php:285 admin/core/um-admin-metabox.php:290
+#: admin/core/um-admin-metabox.php:296
+msgid "Customize this form"
+msgstr "このフォームをカスタマイズする"
+
+#: admin/core/um-admin-metabox.php:286 admin/core/um-admin-metabox.php:292
+#: admin/core/um-admin-metabox.php:298 admin/templates/form/login_css.php:4
+#: admin/templates/form/profile_css.php:4
+#: admin/templates/form/register_css.php:4 um-config.php:1969
+#: um-config.php:1975
+msgid "Custom CSS"
+msgstr "カスタムCSS"
+
+#: admin/core/um-admin-metabox.php:291
+msgid "User Meta"
+msgstr "ユーザーメタ情報"
+
+#: admin/core/um-admin-metabox.php:297
+msgid "Options"
+msgstr "オプション"
+
+#: admin/core/um-admin-metabox.php:467
+msgid ""
+"Select where this field should appear. This option should only be changed on "
+"the profile form and allows you to show a field in one mode only (edit or "
+"view) or in both modes."
+msgstr ""
+"このフィールドの表示場所を選択します。このオプションは、プロフィールフォーム"
+"でのみ変更する必要があり、1つのモード(編集、表示)、または両方のモードでフィー"
+"ルドを表示することができます。"
+
+#: admin/core/um-admin-metabox.php:501
+msgid "If"
+msgstr ""
+
+#: admin/core/um-admin-metabox.php:570
+msgid "Value"
+msgstr ""
+
+#: admin/core/um-admin-metabox.php:690
+msgid "Optional text to include with the divider"
+msgstr "区分線に含めるオプションテキスト"
+
+#: admin/core/um-admin-metabox.php:881
+msgid ""
+"Turn on to force users to create a strong password (A combination of one "
+"lowercase letter, one uppercase letter, and one number). If turned on this "
+"option is only applied to register forms and not to login forms."
+msgstr ""
+"オンにすると、強力なパスワード(小文字1文字、大文字1文字、数字1文字の組み合わ"
+"せ)をユーザーに強制できます。このオプションは、フォームを新規登録するためにの"
+"み適用され、ログインフォームには適用されません。"
+
+#: admin/core/um-admin-metabox.php:891
+msgid ""
+"Turn on to add a confirm password field. If turned on the confirm password "
+"field will only show on register forms and not on login forms."
+msgstr ""
+"オンにすると、パスワードの確認フィールドが追加されます。パスワードの確認"
+"フィールドは登録フォームにのみ表示され、ログインフォームには表示されません。"
+
+#: admin/core/um-admin-metabox.php:1255
+msgid "Minimum number that can be entered in this field"
+msgstr "このフィールドに入力できる最小数"
+
+#: admin/core/um-admin-metabox.php:1265
+msgid "Maximum number that can be entered in this field"
+msgstr "このフィールドに入力できる最大数"
+
+#: admin/core/um-admin-notices.php:50
+#, php-format
+msgid ""
+"Registration is disabled. Please go to the <a href=\"%s\">general settings</"
+"a> page in the WordPress admin and select anyone can register. <a href=\"%s"
+"\">Hide this notice</a>"
+msgstr ""
+"登録は無効です。WordPress管理画面の<a href=\"%s\">一般設定</a>ページにアクセ"
+"スして、誰でも登録できます。<a href=\"%s\">通知を非表示</a>"
+
+#: admin/core/um-admin-notices.php:62
+#, php-format
+msgid ""
+"Exif is not enabled on your server. Mobile photo uploads will not be rotated "
+"correctly until you enable the exif extension. <a href=\"%s\">Hide this "
+"notice</a>"
+msgstr ""
+"サーバー上でExifが有効になっていません。Exif拡張機能を有効にするまで、モバイ"
+"ル写真のアップロードは正しく回転されません。<a href=\"%s\">通知を非表示</a>"
+
+#: admin/core/um-admin-notices.php:84
+msgid ""
+"One or more of your Ultimate Member pages are not correctly setup. Please "
+"visit <strong>Ultimate Member > Settings</strong> to re-assign your missing "
+"pages."
+msgstr ""
+"あなたのUltimate Memberページのいくつかが正しく設定されていません。 不足して"
+"いるページを再割り当てするには、<strong>Ultimate Member > 設定</strong>にアク"
+"セスしてください。"
+
+#: admin/core/um-admin-notices.php:90
+msgid "Ultimate Member Setup Error: User page can not be a child page."
+msgstr ""
+"Ultimate Member設定エラー: ユーザーページを子ページにすることはできません。"
+
+#: admin/core/um-admin-notices.php:97
+msgid "Ultimate Member Setup Error: Account page can not be a child page."
+msgstr ""
+"Ultimate Member設定エラー: アカウントページを子ページにすることはできません。"
+
+#: admin/core/um-admin-notices.php:126
+#, php-format
+msgid ""
+"Your site language is <strong>%1$s</strong>. Good news! Ultimate Member is "
+"already available in <strong>%2$s language</strong>. <a href=\"%3$s"
+"\">Download the translation</a> files and start using the plugin in your "
+"language now."
+msgstr ""
+"サイトの言語は<strong>%1$s</strong>です。良いニュース!  Ultimate Memberで、す"
+"ぐに<strong>%2$s 言語</strong>を利用可能です。 <a href=\"%3$s\">翻訳ファイル"
+"をダウンロード</a>し、あなたの言語でプラグインを使用しましょう。"
+
+#: admin/core/um-admin-notices.php:137
+#, php-format
+msgid ""
+"Ultimate Member has not yet been translated to your langeuage: <strong>%1$s</"
+"strong>. If you have translated the plugin you need put these files "
+"<code>ultimatemember-%1$s.po and ultimatemember-%1$s.mo</code> in <strong>/"
+"wp-content/languages/plugins/</strong> for the plugin to be translated in "
+"your language. <a href=\"%2$s\">Hide this notice</a>"
+msgstr ""
+"Ultimate Memberは、まだあなたの言語に翻訳されていません: <strong>%1$s</"
+"strong>。プラグインを翻訳できる場合は、<code>ultimatemember-%1$s.poと"
+"ultimatemember-%1$s.mo</code>ファイルをあなたの言語で翻訳し、<strong>/wp-"
+"content/languages/plugins/</strong>に置く必要があります。<a href=\"%2$s\">こ"
+"の通知を非表示</a>"
+
+#: admin/core/um-admin-notices.php:174
+#, php-format
+msgid ""
+"Are you sure you want to delete the selected user(s)? The following users "
+"will be deleted: <p>%s</p> <strong>This cannot be undone!</strong>"
+msgstr ""
+"選択したユーザーを削除してもよろしいですか? 次のユーザーが削除されます: <p>"
+"%s</p><strong>元に戻すことはできません!</strong>"
+
+#: admin/core/um-admin-notices.php:175 core/um-actions-profile.php:217
+msgid "Remove"
+msgstr "削除"
+
+#: admin/core/um-admin-notices.php:175
+msgid "Undo"
+msgstr "元に戻す"
+
+#: admin/core/um-admin-notices.php:180
+msgid "Your translation files have been updated successfully."
+msgstr "翻訳ファイルが正常に更新されました。"
+
+#: admin/core/um-admin-notices.php:184
+msgid "Your temp uploads directory is now clean."
+msgstr "一時アップロードディレクトリがきれいになりました。"
+
+#: admin/core/um-admin-notices.php:188
+msgid "Your user cache is now removed."
+msgstr "ユーザーキャッシュは削除されました。"
+
+#: admin/core/um-admin-notices.php:192
+msgid "The form has been duplicated successfully."
+msgstr "フォームが正常に複製されました。"
+
+#: admin/core/um-admin-notices.php:196
+msgid "User has been updated."
+msgstr "ユーザーが更新されました。"
+
+#: admin/core/um-admin-notices.php:200
+msgid "Users have been updated."
+msgstr "ユーザーが更新されました。"
+
+#: admin/core/um-admin-notices.php:204
+msgid "Changed roles."
+msgstr "権限グループを変更しました。"
+
+#: admin/core/um-admin-notices.php:208
+msgid "Super administrators cannot be modified."
+msgstr "ネットワーク管理者は変更できません。"
+
+#: admin/core/um-admin-notices.php:209
+msgid "Other users have been updated."
+msgstr "他のユーザーが更新されました。"
+
+#: admin/core/um-admin-redux.php:59 admin/core/um-admin-redux.php:60
+#: admin/templates/welcome/about_header.php:20 index.php:54
+msgid "Settings"
+msgstr "設定"
+
+#: admin/core/um-admin-roles.php:32
+msgid "Role Title"
+msgstr "権限グループのタイトル"
+
+#: admin/core/um-admin-roles.php:33
+msgid "No. of Members"
+msgstr "メンバー数"
+
+#: admin/core/um-admin-roles.php:33
+msgid "The total number of members who have this role on your site"
+msgstr "この権限グループを持つメンバーの総数"
+
+#: admin/core/um-admin-roles.php:34
+msgid "Core / Built-in"
+msgstr "コア / ビルドイン"
+
+#: admin/core/um-admin-roles.php:34
+msgid "A core role is installed by default and may not be removed"
+msgstr ""
+"コア権限グループはデフォルトでインストールされ、削除されない可能性があります"
+
+#: admin/core/um-admin-roles.php:35
+msgid "WP-Admin Access"
+msgstr "wp-admin アクセス"
+
+#: admin/core/um-admin-roles.php:35
+msgid ""
+"Let you know If users of this role can view the WordPress backend or not"
+msgstr ""
+"この権限グループのユーザーがWordPressのバックエンドを表示できるかどうか"
+
+#: admin/core/um-admin-roles.php:58
+msgid "This role can access the WordPress backend"
+msgstr "この権限グループは、WordPressバックエンドにアクセスできます"
+
+#: admin/core/um-admin-roles.php:76
+msgid "Core"
+msgstr ""
+
+#: admin/core/um-admin-users.php:35 core/um-actions-account.php:378
+#: core/um-actions-account.php:413
+msgid "View profile"
+msgstr "プロフィールを表示"
+
+#: admin/core/um-admin-users.php:38
+msgid "Info"
+msgstr ""
+
+#: admin/core/um-admin-users.php:129 admin/templates/dashboard/users.php:12
+#: core/um-user.php:237
+msgid "Approved"
+msgstr "承認済み"
+
+#: admin/core/um-admin-users.php:130
+msgid "Pending review"
+msgstr "承認待ち"
+
+#: admin/core/um-admin-users.php:131
+msgid "Waiting e-mail confirmation"
+msgstr "Eメールの確認待ち"
+
+#: admin/core/um-admin-users.php:132 admin/templates/dashboard/users.php:40
+msgid "Inactive"
+msgstr "無効"
+
+#: admin/core/um-admin-users.php:133 admin/templates/dashboard/users.php:17
+msgid "Rejected"
+msgstr "拒否済み"
+
+#: admin/core/um-admin-users.php:178 admin/core/um-admin-users.php:236
+#: core/um-actions-core.php:21
+msgid "You do not have enough permissions to do that."
+msgstr "これを行うための十分な権限がありません。"
+
+#: admin/core/um-admin-users.php:307 admin/core/um-admin-users.php:309
+msgid "Filter by"
+msgstr ""
+
+#: admin/core/um-admin-users.php:318
+msgid "Filter"
+msgstr "フィルター"
+
+#: admin/core/um-admin-users.php:324 admin/core/um-admin-users.php:326
+msgid "UM Action"
+msgstr ""
+
+#: admin/core/um-admin-users.php:330 core/um-fields.php:1651
+msgid "Apply"
+msgstr "適用"
+
+#: admin/core/um-admin-users.php:336
+msgid "Community role&hellip;"
+msgstr "コミュニティー権限グループ&hellip;"
+
+#: admin/core/um-admin-users.php:343
+msgid "Change"
+msgstr "変更"
+
+#: admin/core/um-admin-users.php:362
+msgid "This is the membership role set by Ultimate Member plugin"
+msgstr "Ultimate Memberプラグインによって設定されたメンバーの権限グループです"
+
+#: admin/templates/access/settings.php:9
+msgid "Apply custom access settings?"
+msgstr "カスタムアクセス設定を適用しますか?"
+
+#: admin/templates/access/settings.php:9
+msgid "Switch to yes to override global access settings"
+msgstr "yesに切り替えて、共通アクセス設定を上書きする"
+
+#: admin/templates/access/settings.php:17
+msgid "Who can access this content?"
+msgstr "誰がこのコンテンツにアクセスできますか?"
+
+#: admin/templates/access/settings.php:33
+#: admin/templates/access/settings.php:60
+msgid "Redirect URL"
+msgstr "リダイレクトURL"
+
+#: admin/templates/access/settings.php:33
+#: admin/templates/access/settings.php:60
+msgid ""
+"This is the URL that user is redirected to If he is not permitted to view "
+"this content"
+msgstr ""
+"このコンテンツを表示することが許可されていない場合にユーザーがリダイレクトさ"
+"れるURLです。"
+
+#: admin/templates/access/settings.php:47
+msgid "Select the member roles that can see this content?"
+msgstr "このコンテンツを表示できるメンバーの権限グループを選択しますか?"
+
+#: admin/templates/access/settings.php:47
+msgid ""
+"If you do not select any role, all members will be able to view this content"
+msgstr ""
+"権限グループを選択しないと、すべてのメンバーがこのコンテンツを表示できます"
+
+#: admin/templates/dashboard/language-contrib.php:1
+#, php-format
+msgid ""
+"Ultimate Member is not yet available in your language: <strong>%1$s</strong>."
+msgstr ""
+"Ultimate Memberは、まだあなたの言語で利用できません: <strong>%1$s</strong>。"
+
+#: admin/templates/dashboard/language-contrib.php:3
+msgid ""
+"If you want to contribute this translation to the plugin, please add it on "
+"our <a href=\"https://ultimatemember.com/forums/\">community forum</a>."
+msgstr ""
+"この翻訳をプラグインに提供したい場合は、<a href=\"https://ultimatemember.com/"
+"forums/\">コミュニティーフォーラム</a>に追加してください。"
+
+#: admin/templates/dashboard/language-download.php:1
+#, php-format
+msgid ""
+"Ultimate Member is available in your language: <strong>%1$s (%2$s)</strong>."
+msgstr ""
+"Ultimate Memberは、あなたの言語で利用できます: <strong>%1$s (%2$s)</strong>。"
+
+#: admin/templates/dashboard/language-download.php:3
+msgid "Download Translation"
+msgstr "翻訳をダウンロードする"
+
+#: admin/templates/dashboard/language-update.php:1
+#, php-format
+msgid ""
+"You are currently using Ultimate Member in your language: <strong>%1$s "
+"(%2$s)</strong>."
+msgstr ""
+"現在あなたの言語でUltimate Memberを使用しています: <strong>%1$s (%2$s)</"
+"strong>。"
+
+#: admin/templates/dashboard/language-update.php:3
+msgid "Force Update Translation"
+msgstr "翻訳の強制更新"
+
+#: admin/templates/dashboard/users.php:7 um-config.php:93
+msgid "Users"
+msgstr "ユーザー"
+
+#: admin/templates/dashboard/users.php:30 core/um-user.php:245
+msgid "Pending Review"
+msgstr "承認待ち"
+
+#: admin/templates/dashboard/users.php:35 core/um-user.php:241
+msgid "Awaiting E-mail Confirmation"
+msgstr "Eメールの確認待ち"
+
+#: admin/templates/directory/appearance.php:3
+#: admin/templates/form/login_customize.php:14
+#: admin/templates/form/profile_customize.php:26
+#: admin/templates/form/register_customize.php:26
+msgid "Template"
+msgstr "テンプレート"
+
+#: admin/templates/directory/general.php:24
+msgid "User Roles to Display"
+msgstr "表示するユーザー権限グループ"
+
+#: admin/templates/directory/general.php:37
+msgid "Only show members who have uploaded a profile photo"
+msgstr "プロフィール写真をアップロードしたメンバーのみを表示"
+
+#: admin/templates/directory/general.php:46
+msgid "Only show members who have uploaded a cover photo"
+msgstr "カバー写真をアップロードしたメンバーのみを表示"
+
+#: admin/templates/directory/general.php:55
+msgid "Sort users by"
+msgstr "ユーザーの並べ替え"
+
+#: admin/templates/directory/general.php:59
+msgid "New users first"
+msgstr "最初に新しいユーザー"
+
+#: admin/templates/directory/general.php:60
+msgid "Old users first"
+msgstr "最初に古いユーザー"
+
+#: admin/templates/directory/general.php:61
+msgid "Last login"
+msgstr "前回のログイン"
+
+#: admin/templates/directory/general.php:62
+msgid "Display Name"
+msgstr "表示名"
+
+#: admin/templates/directory/general.php:63 core/um-builtin.php:594
+#: core/um-builtin.php:597
+msgid "First Name"
+msgstr "名"
+
+#: admin/templates/directory/general.php:64 core/um-builtin.php:604
+#: core/um-builtin.php:607
+msgid "Last Name"
+msgstr "姓"
+
+#: admin/templates/directory/general.php:65
+msgid "Random"
+msgstr "ランダム"
+
+#: admin/templates/directory/general.php:66
+msgid "Other (custom field)"
+msgstr "他(カスタムフィールド)"
+
+#: admin/templates/directory/general.php:74
+msgid "Meta key"
+msgstr ""
+
+#: admin/templates/directory/general.php:83
+msgid "Only show specific users (Enter one username per line)"
+msgstr "特定のユーザーのみを表示する (1行に1つのユーザー名を入力する)"
+
+#: admin/templates/directory/pagination.php:6
+msgid "Number of profiles per page"
+msgstr "ページごとのプロフィール数"
+
+#: admin/templates/directory/pagination.php:6
+msgid "Number of profiles to appear on page for standard users"
+msgstr "標準ユーザーのページに表示されるプロフィール数"
+
+#: admin/templates/directory/pagination.php:15
+msgid "Number of profiles per page (for Mobiles & Tablets)"
+msgstr "1ページごとのプロフィール数(モバイル&タブレット用)"
+
+#: admin/templates/directory/pagination.php:15
+msgid "Number of profiles to appear on page for mobile users"
+msgstr "モバイルユーザーのページに表示されるプロフィール数"
+
+#: admin/templates/directory/pagination.php:24
+msgid "Maximum number of profiles"
+msgstr "プロフィールの最大数"
+
+#: admin/templates/directory/pagination.php:24
+msgid ""
+"Use this setting to control the maximum number of profiles to appear in this "
+"directory. Leave blank to disable this limit"
+msgstr ""
+"この設定を使用して、このディレクトリに表示されるプロフィールの最大数をコント"
+"ロールします。空白のままなら、制限を無効にします"
+
+#: admin/templates/directory/profile.php:6
+msgid "Enable Profile Photo"
+msgstr "プロフィール写真を有効にする"
+
+#: admin/templates/directory/profile.php:15
+msgid "Enable Cover Photo"
+msgstr "カバー写真を有効にする"
+
+#: admin/templates/directory/profile.php:24
+msgid "Show display name"
+msgstr "表示名を表示する"
+
+#: admin/templates/directory/profile.php:33
+msgid "Show tagline below profile name"
+msgstr "プロフィール名の下にタグラインを表示する"
+
+#: admin/templates/directory/profile.php:42
+msgid "Choose field(s) to display in tagline"
+msgstr "タグラインに表示するフィールドを選択する"
+
+#: admin/templates/directory/profile.php:90
+msgid "Show extra user information below tagline?"
+msgstr "タグラインの下に追加ユーザー情報を表示しますか?"
+
+#: admin/templates/directory/profile.php:99
+msgid "Enable reveal section transition by default"
+msgstr "デフォルトで公開範囲への移行を有効にする"
+
+#: admin/templates/directory/profile.php:108
+msgid "Choose field(s) to display in reveal section"
+msgstr "公開範囲に表示するフィールドを選択"
+
+#: admin/templates/directory/profile.php:156
+msgid "Show social connect icons"
+msgstr "ソーシャル接続アイコンを表示する"
+
+#: admin/templates/directory/profile_card.php:3
+msgid "Profile card background"
+msgstr "プロフィールカードの背景"
+
+#: admin/templates/directory/profile_card.php:7
+msgid "Profile card text"
+msgstr "プロフィールカードのテキスト"
+
+#: admin/templates/directory/profile_card.php:11
+msgid "Profile card border color"
+msgstr "プロフィールカードのボーダーカラー"
+
+#: admin/templates/directory/profile_card.php:15
+msgid "Profile photo border color"
+msgstr "プロフィール写真のボーダーカラー"
+
+#: admin/templates/directory/profile_card.php:19
+msgid "Profile card border thickness"
+msgstr "プロフィールカードのボーダー太さ"
+
+#: admin/templates/directory/search.php:6
+msgid "Enable Search feature"
+msgstr "検索機能を有効にする"
+
+#: admin/templates/directory/search.php:15
+msgid "Show results only after search"
+msgstr "検索後にのみ結果を表示する"
+
+#: admin/templates/directory/search.php:24
+msgid "User Roles that can use search"
+msgstr "検索を使用できるユーザー権限グループ"
+
+#: admin/templates/directory/search.php:37
+msgid "Choose field(s) to enable in search"
+msgstr "検索で有効にするフィールドを選択する"
+
+#: admin/templates/directory/search.php:89
+msgid "Results Text"
+msgstr "結果テキスト"
+
+#: admin/templates/directory/search.php:89
+msgid ""
+"Customize the search result text . e.g. Found 3,000 Members. Leave this "
+"blank to not show result text"
+msgstr ""
+"検索結果のテキストをカスタマイズします。例: 3,000メンバーが見つかりました。結"
+"果テキストを表示しない場合は空白のままにします"
+
+#: admin/templates/directory/search.php:92 core/um-setup.php:49
+#: core/um-setup.php:164
+msgid "{total_users} Members"
+msgstr "{total_users} メンバー"
+
+#: admin/templates/directory/search.php:98
+msgid "Single Result Text"
+msgstr "1つの結果テキスト"
+
+#: admin/templates/directory/search.php:98
+msgid "Same as above but in case of 1 user found only"
+msgstr "上記と同じですが、ユーザーが1人しか見つからない場合"
+
+#: admin/templates/directory/search.php:101 core/um-setup.php:50
+#: core/um-setup.php:165
+msgid "{total_users} Member"
+msgstr "{total_users} メンバー"
+
+#: admin/templates/directory/search.php:107
+msgid "Custom text if no users were found"
+msgstr "ユーザーが見つからない場合のカスタムテキスト"
+
+#: admin/templates/directory/search.php:110 core/um-setup.php:51
+msgid "We are sorry. We cannot find any users who match your search criteria."
+msgstr "申し訳ありません。検索条件に一致するユーザーは見つかりませんでした。"
+
+#: admin/templates/form/builder.php:14
+msgid "Live Preview"
+msgstr "ライブプレビュー"
+
+#: admin/templates/form/builder.php:28
+msgid "Add Master Row"
+msgstr ""
+
+#: admin/templates/form/login_css.php:4 admin/templates/form/profile_css.php:4
+#: admin/templates/form/register_css.php:4
+msgid "Enter custom css that will be applied to this form only"
+msgstr "このフォームにのみ適用されるカスタムCSSを入力してください"
+
+#: admin/templates/form/login_customize.php:4
+#: admin/templates/form/profile_customize.php:4
+#: admin/templates/form/register_customize.php:4
+msgid "Use global settings?"
+msgstr "共通設定を使用しますか?"
+
+#: admin/templates/form/login_customize.php:26
+#: admin/templates/form/profile_customize.php:38
+#: admin/templates/form/register_customize.php:38
+msgid "Max. Width (px)"
+msgstr "最大幅 (px)"
+
+#: admin/templates/form/login_customize.php:30
+#: admin/templates/form/profile_customize.php:46
+#: admin/templates/form/register_customize.php:42
+msgid "Alignment"
+msgstr "配置"
+
+#: admin/templates/form/login_customize.php:40
+#: admin/templates/form/profile_customize.php:56
+#: admin/templates/form/register_customize.php:52
+msgid "Field Icons"
+msgstr "フィールドアイコン"
+
+#: admin/templates/form/login_customize.php:50
+#: admin/templates/form/profile_customize.php:66
+#: admin/templates/form/register_customize.php:62
+msgid "Primary Button Text"
+msgstr "プライマリボタンテキスト"
+
+#: admin/templates/form/login_customize.php:54
+#: admin/templates/form/profile_customize.php:70
+#: admin/templates/form/register_customize.php:66
+msgid "Primary Button Color"
+msgstr "プライマリボタンカラー"
+
+#: admin/templates/form/login_customize.php:58
+#: admin/templates/form/profile_customize.php:74
+#: admin/templates/form/register_customize.php:70
+msgid "Primary Button Hover Color"
+msgstr "プライマリボタンホバーカラー"
+
+#: admin/templates/form/login_customize.php:62
+#: admin/templates/form/profile_customize.php:78
+#: admin/templates/form/register_customize.php:74
+msgid "Primary Button Text Color"
+msgstr "プライマリボタンテキストカラー"
+
+#: admin/templates/form/login_customize.php:67
+#: admin/templates/form/profile_customize.php:83
+#: admin/templates/form/register_customize.php:79
+msgid "Show Secondary Button"
+msgstr "セカンダリボタンの表示"
+
+#: admin/templates/form/login_customize.php:75
+#: admin/templates/form/profile_customize.php:91
+#: admin/templates/form/register_customize.php:87
+msgid "Secondary Button Text"
+msgstr "セカンダリボタンテキスト"
+
+#: admin/templates/form/login_customize.php:79
+#: admin/templates/form/profile_customize.php:95
+#: admin/templates/form/register_customize.php:91
+msgid "Secondary Button Color"
+msgstr "セカンダリボタンカラー"
+
+#: admin/templates/form/login_customize.php:83
+#: admin/templates/form/profile_customize.php:99
+#: admin/templates/form/register_customize.php:95
+msgid "Secondary Button Hover Color"
+msgstr "セカンダリボタンホバーカラー"
+
+#: admin/templates/form/login_customize.php:87
+#: admin/templates/form/profile_customize.php:103
+#: admin/templates/form/register_customize.php:99
+msgid "Secondary Button Text Color"
+msgstr "セカンダリボタンテキストカラー"
+
+#: admin/templates/form/login_customize.php:92
+msgid "Show Forgot Password Link?"
+msgstr "パスワード忘れリンクの表示"
+
+#: admin/templates/form/login_customize.php:101
+msgid "Show \"Remember Me\"?"
+msgstr "\"ログイン状態を保存する\"を表示しますか?"
+
+#: admin/templates/form/login_settings.php:3
+msgid "Redirection after Login"
+msgstr "ログイン後のリダイレト"
+
+#: admin/templates/form/login_settings.php:6 um-config.php:200
+msgid "Default"
+msgstr "デフォルト"
+
+#: admin/templates/form/login_settings.php:16
+#: admin/templates/role/delete.php:18 admin/templates/role/login.php:20
+#: admin/templates/role/logout.php:18 admin/templates/role/register.php:37
+#: admin/templates/role/register.php:85 admin/templates/role/register.php:133
+msgid "Set Custom Redirect URL"
+msgstr "カスタムリダイレクトURLを設定"
+
+#: admin/templates/form/mode.php:6
+msgid ""
+"<strong>Note:</strong> Form type cannot be changed for the default forms."
+msgstr ""
+"<strong>注意:</strong> デフォルトのフォームではフォームタイプを変更できませ"
+"ん。"
+
+#: admin/templates/form/mode.php:9 um-config.php:1754
+msgid "Registration Form"
+msgstr "新規登録フォーム"
+
+#: admin/templates/form/mode.php:11
+msgid "Profile Form"
+msgstr "プロフィールフォーム"
+
+#: admin/templates/form/mode.php:13 um-config.php:1856
+msgid "Login Form"
+msgstr "ログインフォーム"
+
+#: admin/templates/form/profile_customize.php:14
+msgid "Make this profile role-specific"
+msgstr "プロフィールを特定の権限グループで作成する"
+
+#: admin/templates/form/profile_customize.php:42
+msgid "Profile Area Max. Width (px)"
+msgstr "プロフィールエリア最大幅(px)"
+
+#: admin/templates/form/profile_customize.php:107
+msgid "Base Background Color"
+msgstr "ベース背景色"
+
+#: admin/templates/form/profile_customize.php:111
+msgid "Base Text Color"
+msgstr "ベーステキストカラー"
+
+#: admin/templates/form/profile_customize.php:115
+msgid "Enable Cover Photos"
+msgstr "カバー写真を有効にする"
+
+#: admin/templates/form/profile_customize.php:123
+msgid "Cover photo ratio"
+msgstr "カバー写真の比率"
+
+#: admin/templates/form/profile_customize.php:133 um-config.php:1487
+msgid "Profile Photo Size"
+msgstr "プロフィールの写真サイズ"
+
+#: admin/templates/form/profile_customize.php:137 um-config.php:1496
+msgid "Profile Photo Style"
+msgstr "プロフィールの写真スタイル"
+
+#: admin/templates/form/profile_customize.php:140 um-config.php:1500
+msgid "Circle"
+msgstr "サークル"
+
+#: admin/templates/form/profile_customize.php:141 um-config.php:1501
+msgid "Rounded Corners"
+msgstr "角丸"
+
+#: admin/templates/form/profile_customize.php:142 um-config.php:1502
+msgid "Square"
+msgstr "スクエア"
+
+#: admin/templates/form/profile_customize.php:147
+msgid "Make Profile Photo Required"
+msgstr "プロフィール写真が必須ください"
+
+#: admin/templates/form/profile_customize.php:155
+msgid "Header Background Color"
+msgstr "ヘッダー背景色"
+
+#: admin/templates/form/profile_customize.php:159
+msgid "Header Meta Text Color"
+msgstr "ヘッダーメタ情報テキストカラー"
+
+#: admin/templates/form/profile_customize.php:163
+msgid "Header Link Color"
+msgstr "ヘッダーリンクカラー"
+
+#: admin/templates/form/profile_customize.php:167
+msgid "Header Link Hover"
+msgstr "ヘッダーリンクホバー"
+
+#: admin/templates/form/profile_customize.php:171
+msgid "Header Icon Link Color"
+msgstr "ヘッダーアイコンリンクカラー"
+
+#: admin/templates/form/profile_customize.php:175
+msgid "Header Icon Link Hover"
+msgstr "ヘッダーアイコンリンクホバー"
+
+#: admin/templates/form/profile_customize.php:180
+msgid "Show display name in profile header?"
+msgstr "プロフィールヘッダーに表示名を表示しますか?"
+
+#: admin/templates/form/profile_customize.php:189
+msgid "Show social links in profile header?"
+msgstr "プロフィールヘッダーにソーシャルリンクを表示しますか?"
+
+#: admin/templates/form/profile_customize.php:198
+msgid "Show user description in profile header?"
+msgstr "プロフィールヘッダーにユーザー説明文を表示しますか?"
+
+#: admin/templates/form/profile_settings.php:4
+msgid "Field(s) to show in user meta"
+msgstr "ユーザーメタ情報で表示するフィールド"
+
+#: admin/templates/form/register_customize.php:4
+msgid ""
+"Switch to no if you want to customize this form settings, styling &amp; "
+"appearance"
+msgstr ""
+"このフォームのスタイリング&amp; 外観設定をカスタマイズする場合は、no に切り替"
+"えます"
+
+#: admin/templates/form/register_customize.php:14
+msgid "Assign role to form"
+msgstr "フォームに権限グループを割り当てる"
+
+#: admin/templates/form/register_customize.php:42 um-config.php:1387
+#: um-config.php:1780 um-config.php:1882
+msgid "The shortcode is centered by default unless you specify otherwise here"
+msgstr "ショートコードは、ここで指定しない限りデフォルトで中央に配置されます"
+
+#: admin/templates/form/register_customize.php:52
+msgid ""
+"Whether to show field icons and where to show them relative to the field"
+msgstr "フィールドを基準に表示する場所とフィールドアイコンを表示するかどうか"
+
+#: admin/templates/form/register_customize.php:62
+#: admin/templates/form/register_customize.php:87
+msgid "Customize the button text"
+msgstr "ボタンテキストをカスタマイズする"
+
+#: admin/templates/form/register_customize.php:66
+msgid "Override the default primary button color"
+msgstr "デフォルトのプライマリボタンカラーを上書きする"
+
+#: admin/templates/form/register_customize.php:70
+msgid "Override the default primary button hover color"
+msgstr "デフォルトのプライマリボタンホバーカラーを上書きする"
+
+#: admin/templates/form/register_customize.php:74
+msgid "Override the default primary button text color"
+msgstr "デフォルトのプライマリボタンテキストカラーを上書きする"
+
+#: admin/templates/form/register_customize.php:91
+msgid "Override the default secondary button color"
+msgstr "デフォルトのセカンダリボタンカラーを上書きする"
+
+#: admin/templates/form/register_customize.php:95
+msgid "Override the default secondary button hover color"
+msgstr "デフォルトのセカンダリボタンホバーカラーを上書きする"
+
+#: admin/templates/form/register_customize.php:99
+msgid "Override the default secondary button text color"
+msgstr "デフォルトのセカンダリボタンテキストカラーを上書きする"
+
+#: admin/templates/modal/dynamic_edit_field.php:6
+msgid "Edit Field"
+msgstr "フィールドを編集"
+
+#: admin/templates/modal/dynamic_edit_field.php:14
+#: admin/templates/modal/dynamic_edit_row.php:14
+msgid "Update"
+msgstr "アップデート"
+
+#: admin/templates/modal/dynamic_edit_field.php:15
+#: admin/templates/modal/dynamic_edit_row.php:15
+#: admin/templates/modal/dynamic_new_divider.php:15
+#: admin/templates/modal/dynamic_new_field.php:15
+#: admin/templates/modal/dynamic_new_group.php:15
+#: core/um-actions-profile.php:218 core/um-actions-profile.php:332
+#: core/um-actions-profile.php:344 core/um-actions-profile.php:505
+#: core/um-fields.php:1652 core/um-fields.php:1740
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: admin/templates/modal/dynamic_edit_row.php:6
+msgid "Edit Row Settings"
+msgstr "行設定の編集"
+
+#: admin/templates/modal/dynamic_form_preview.php:4
+msgid "Live Form Preview"
+msgstr "フォームのライブプレビュー"
+
+#: admin/templates/modal/dynamic_form_preview.php:12
+msgid "Continue editing"
+msgstr "編集を続ける"
+
+#: admin/templates/modal/dynamic_new_divider.php:6
+msgid "Add a New Divider"
+msgstr "新しい区分線を追加"
+
+#: admin/templates/modal/dynamic_new_divider.php:14
+#: admin/templates/modal/dynamic_new_field.php:14
+#: admin/templates/modal/dynamic_new_group.php:14
+msgid "Add"
+msgstr "追加"
+
+#: admin/templates/modal/dynamic_new_field.php:6
+msgid "Add a New Field"
+msgstr "新しいフィールドを追加"
+
+#: admin/templates/modal/dynamic_new_group.php:6
+msgid "Add a New Field Group"
+msgstr "新しいフィールドグループを追加する"
+
+#: admin/templates/modal/dynamic_registration_preview.php:4
+msgid "Review Registration Details"
+msgstr "承認登録の詳細"
+
+#: admin/templates/modal/fields.php:4
+msgid "Fields Manager"
+msgstr "フィールドマネージャー"
+
+#: admin/templates/modal/fonticons.php:4
+#, php-format
+msgid "Choose from %s available icons"
+msgstr "利用できる %s のアイコンから選択する"
+
+#: admin/templates/role/admin.php:7 admin/templates/role/admin.php:16
+msgid "Can access wp-admin?"
+msgstr "wp-adminにアクセスできますか?"
+
+#: admin/templates/role/admin.php:7
+msgid ""
+"The core admin role must always have access to wp-admin / WordPress backend"
+msgstr ""
+"コア管理者の権限グループは、常に wp-admin / WordPressバックエンドにアクセスで"
+"きる必要があります"
+
+#: admin/templates/role/admin.php:11 admin/templates/role/admin.php:20
+msgid "Force hiding adminbar in frontend?"
+msgstr "フロントエンドで管理バーを隠しますか?"
+
+#: admin/templates/role/admin.php:11 admin/templates/role/admin.php:20
+msgid "Show/hide the adminbar on frontend"
+msgstr "フロントエンドの管理バーの表示/非表示"
+
+#: admin/templates/role/admin.php:16
+msgid ""
+"Allow this role to access the admin dashboard. If turned on the WordPress "
+"toolbar will appear at top of the page."
+msgstr ""
+"この権限グループが管理ダッシュボードへのアクセスを許可します。オンにすると、"
+"WordPressのツールバーがページ上部に表示されます。"
+
+#: admin/templates/role/admin.php:26
+msgid "Can edit other member accounts?"
+msgstr "他のメンバーアカウントを編集できますか?"
+
+#: admin/templates/role/admin.php:26
+msgid "Allow this role to edit accounts of other members"
+msgstr "この権限グループで他メンバーのアカウントを編集できるようにする"
+
+#: admin/templates/role/admin.php:31
+msgid "Can edit these user roles only"
+msgstr "これらのユーザー権限グループのみを編集できます"
+
+#: admin/templates/role/admin.php:31
+msgid ""
+"Which roles that role can edit, choose none to allow role to edit all member "
+"roles"
+msgstr ""
+"どの権限グループが編集できるのかを選択。なし にすると、権限グループがすべての"
+"メンバー権限グループを編集できるようになります"
+
+#: admin/templates/role/admin.php:44
+msgid "Can delete other member accounts?"
+msgstr "他のメンバーアカウントを削除できますか?"
+
+#: admin/templates/role/admin.php:44
+msgid "Allow this role to edit the profile fields of certain roles only"
+msgstr ""
+"この権限グループで特定の権限グループのプロフィールフィールドを編集できるよう"
+"にする"
+
+#: admin/templates/role/admin.php:49
+msgid "Can delete these user roles only"
+msgstr "これらのユーザー権限グループのみを削除できます"
+
+#: admin/templates/role/admin.php:49
+msgid ""
+"Which roles that role can delete, choose none to allow role to delete all "
+"member roles"
+msgstr ""
+"どの権限グループを削除できるのかを選択。なし にすると、権限グループがすべての"
+"メンバー限グループを削除できるようになります"
+
+#: admin/templates/role/delete.php:6
+msgid "Action to be taken after account is deleted"
+msgstr "アカウントを削除した後に実行するアクション"
+
+#: admin/templates/role/delete.php:6
+msgid ""
+"Select what happens when a user with this role deletes their own account"
+msgstr ""
+"この権限グループを持つユーザーが自分のアカウントを削除した時のアクションを選"
+"択します"
+
+#: admin/templates/role/delete.php:10 admin/templates/role/logout.php:10
+msgid "Go to Homepage"
+msgstr "ホームページへ移動"
+
+#: admin/templates/role/delete.php:11 admin/templates/role/logout.php:11
+msgid "Go to Custom URL"
+msgstr "カスタムURLへ移動"
+
+#: admin/templates/role/delete.php:18
+msgid "Set a url to redirect this user role to after they delete account"
+msgstr ""
+"このユーザー権限グループのユーザーがアカウントを削除した後にリダイレクトする"
+"URLを設定する"
+
+#: admin/templates/role/general.php:6
+msgid "Can edit their profile?"
+msgstr "プロフィールを編集できますか?"
+
+#: admin/templates/role/general.php:6
+msgid "Can this role edit his own profile?"
+msgstr "この権限グループは自分のプロフィールを編集できますか?"
+
+#: admin/templates/role/general.php:11
+msgid "Can delete their account?"
+msgstr "アカウントを削除できますか?"
+
+#: admin/templates/role/general.php:11
+msgid ""
+"Allow this role to delete their account and end their membership on your site"
+msgstr ""
+"この権限グループで自分のアカウントを削除し、サイトのメンバーを退会できるよう"
+"にする"
+
+#: admin/templates/role/home.php:6
+msgid "Can view default homepage?"
+msgstr "デフォルトのホームページを表示できますか?"
+
+#: admin/templates/role/home.php:6
+msgid "Allow this user role to view your site's homepage"
+msgstr "このユーザー権限グループでサイトのホームページを表示できるようにする"
+
+#: admin/templates/role/home.php:15
+msgid "Custom Homepage Redirect"
+msgstr "カスタムホームページリダイレクト"
+
+#: admin/templates/role/home.php:15
+msgid ""
+"Set a url to redirect this user role to if they try to view your site's "
+"homepage "
+msgstr ""
+"このユーザー権限グループでサイトのホームページを表示しようとするとリダイレク"
+"トされるURLを設定します"
+
+#: admin/templates/role/login.php:6
+msgid "Action to be taken after login"
+msgstr "ログイン後に実行するアクション"
+
+#: admin/templates/role/login.php:6
+msgid "Select what happens when a user with this role logins to your site"
+msgstr ""
+"この権限グループを持つユーザーがサイトにログインした時のアクションを選択しま"
+"す"
+
+#: admin/templates/role/login.php:10 admin/templates/role/register.php:29
+msgid "Redirect to profile"
+msgstr "プロフィールへリダイレクト"
+
+#: admin/templates/role/login.php:11 admin/templates/role/register.php:30
+#: admin/templates/role/register.php:69 admin/templates/role/register.php:117
+msgid "Redirect to URL"
+msgstr "URLへリダイレクト"
+
+#: admin/templates/role/login.php:12
+msgid "Refresh active page"
+msgstr "アクティブページをリフレッシュ"
+
+#: admin/templates/role/login.php:13
+msgid "Redirect to WordPress Admin"
+msgstr "WordPress adminへリダイレクト"
+
+#: admin/templates/role/login.php:20
+msgid ""
+"Set a url to redirect this user role to after they login with their account"
+msgstr ""
+"このユーザー権限グループのユーザーがアカウントにログインした後にリダイレクト"
+"するURLを設定する"
+
+#: admin/templates/role/logout.php:6
+msgid "Action to be taken after logout"
+msgstr "ログアウト後に実行するアクション"
+
+#: admin/templates/role/logout.php:6
+msgid "Select what happens when a user with this role logouts of your site"
+msgstr ""
+"この権限グループのユーザーがログアウトのログアウトした時のアクションを選択し"
+"ます"
+
+#: admin/templates/role/logout.php:18
+msgid "Set a url to redirect this user role to after they logout from site"
+msgstr ""
+"このユーザー権限グループがログアウトした後のリダイレクトするURLを設定する"
+
+#: admin/templates/role/profile.php:6
+msgid "Can view other member profiles?"
+msgstr "他のメンバープロフィールを表示できますか?"
+
+#: admin/templates/role/profile.php:6
+msgid "Can this role view all member profiles?"
+msgstr "この権限グループは、すべてのメンバープロフィールを表示できますか?"
+
+#: admin/templates/role/profile.php:11
+msgid "Can view these user roles only"
+msgstr "これらのユーザー権限グループのみを表示できます"
+
+#: admin/templates/role/profile.php:11
+msgid ""
+"Which roles that role can view, choose none to allow role to view all member "
+"roles"
+msgstr ""
+"どの権限グループが表示できるのかを選択。なし にすると、すべてのメンバー権限グ"
+"ループを表示できるようになります"
+
+#: admin/templates/role/profile.php:24
+msgid "Can make their profile private?"
+msgstr "プロフィールを非公開にできますか?"
+
+#: admin/templates/role/profile.php:24
+msgid "Can this role make their profile private?"
+msgstr "この権限グループはプロフィールを非公開にできますか?"
+
+#: admin/templates/role/profile.php:29
+msgid "Can view/access private profiles?"
+msgstr "非公開プロフィールを表示/アクセスできますか?"
+
+#: admin/templates/role/profile.php:29
+msgid "Can this role view private profiles?"
+msgstr "この権限グループは非公開プロフィールを表示できますか?"
+
+#: admin/templates/role/register.php:6
+msgid "Registration Status"
+msgstr "登録ステータス"
+
+#: admin/templates/role/register.php:6
+msgid ""
+"Select the status you would like this user role to have after they register "
+"on your site"
+msgstr ""
+"サイトに登録した後に、このユーザー権限グループが持つステータスを選択します"
+
+#: admin/templates/role/register.php:13
+msgid "Auto Approve"
+msgstr "自動承認"
+
+#: admin/templates/role/register.php:14
+msgid "Require Email Activation"
+msgstr "Eメールの有効化が必要"
+
+#: admin/templates/role/register.php:15
+msgid "Require Admin Review"
+msgstr "管理者の承認が必要"
+
+#: admin/templates/role/register.php:25 admin/templates/role/register.php:62
+#: admin/templates/role/register.php:110
+msgid "Action to be taken after registration"
+msgstr "新規登録後に実行するアクション"
+
+#: admin/templates/role/register.php:25 admin/templates/role/register.php:62
+#: admin/templates/role/register.php:110
+msgid ""
+"Select what action is taken after a person registers on your site. Depending "
+"on the status you can redirect them to their profile, a custom url or show a "
+"custom message"
+msgstr ""
+"ユーザーがサイトに登録した後に実行するアクションを選択します。 ステータスに応"
+"じて、プロフィール、カスタムURL、またはカスタムメッセージを表示することができ"
+"ます"
+
+#: admin/templates/role/register.php:53
+msgid "Login user after validating the activation link?"
+msgstr "有効化リンクの検証後にログインしますか?"
+
+#: admin/templates/role/register.php:53
+msgid "Login the user after validating the activation link"
+msgstr "有効化リンクの検証後にユーザーをログインする"
+
+#: admin/templates/role/register.php:68 admin/templates/role/register.php:116
+msgid "Show custom message"
+msgstr "カスタムメッセージを表示する"
+
+#: admin/templates/role/register.php:76 admin/templates/role/register.php:124
+msgid "Personalize the custom message"
+msgstr "カスタムメッセージを好みに合わせる"
+
+#: admin/templates/role/register.php:79
+msgid ""
+"Thank you for registering. Before you can login we need you to activate your "
+"account by clicking the activation link in the email we just sent you."
+msgstr ""
+"新規登録ありがとうございます。ログインする前に、送信したEメールの有効化リンク"
+"をクリックして、アカウントを有効にする必要があります。"
+
+#: admin/templates/role/register.php:94
+msgid "URL redirect after e-mail activation"
+msgstr "Eメールの有効化後のリダイレクトURL"
+
+#: admin/templates/role/register.php:94
+msgid ""
+"If you want users to go to a specific page other than login page after e-"
+"mail activation, enter the URL here."
+msgstr ""
+"Eメールの有効化後にユーザーがログイン以外の特定ページに移動するには、ここに"
+"URLを入力します。"
+
+#: admin/templates/role/register.php:127
+msgid ""
+"Thank you for applying for membership to our site. We will review your "
+"details and send you an email letting you know whether your application has "
+"been successful or not."
+msgstr ""
+"サイトへの会員登録ありがとうございます。あなたの申請を承認するかどうかを知ら"
+"せるEメールをお送りします。"
+
+#: admin/templates/role/sync.php:19
+msgid "Link to WordPress role"
+msgstr "WordPressの権限グループへのリンク"
+
+#: admin/templates/role/sync.php:19
+msgid ""
+"Users who get this community role will be assigned this WordPress role "
+"automatically"
+msgstr ""
+"このコミュニティ権限グループを取得したユーザーには、このWordPress権限グループ"
+"が自動的に割り当てられます"
+
+#: admin/templates/role/sync.php:28
+msgid "Sync / update all existing users"
+msgstr "既存のすべてのユーザーを同期/更新"
+
+#: admin/templates/welcome/about_header.php:15
+msgid ""
+"Thank you for installing! Ultimate Member is a powerful community and "
+"membership plugin that allows you to create beautiful community and "
+"membership sites with WordPress."
+msgstr ""
+"インストールありがとうございます!  Ultimate Memberは、WordPressで美しいコミュ"
+"ニティやメンバーシップサイトを作成できる強力なコミュニティとメンバーシップの"
+"プラグインです。 Ultimate Memberは、WordPressで美しいコミュニティやメンバー"
+"シップサイトを作成できる強力なプラグインです。"
+
+#: admin/templates/welcome/about_header.php:21 index.php:52
+msgid "Docs"
+msgstr "ドキュメント"
+
+#: admin/templates/welcome/about_header.php:22
+msgid "Support"
+msgstr "サポート"
+
+#: core/lib/upload/um-file-upload.php:58 core/lib/upload/um-image-upload.php:56
+msgid "A theme or plugin compatibility issue"
+msgstr "テーマ、またはプラグインの互換性の問題"
+
+#: core/um-account.php:27 um-config.php:255
+msgid "Account"
+msgstr "アカウント"
+
+#: core/um-account.php:30
+msgid "Change Password"
+msgstr "パスワードの変更"
+
+#: core/um-account.php:33
+msgid "Privacy"
+msgstr "プライバシー"
+
+#: core/um-account.php:36 um-config.php:914
+msgid "Notifications"
+msgstr "通知"
+
+#: core/um-account.php:39 core/um-actions-account.php:225
+#: core/um-builtin.php:1017 core/um-builtin.php:1020
+msgid "Delete Account"
+msgstr "アカウント削除"
+
+#: core/um-actions-account.php:108
+msgid "You must provide your first name"
+msgstr "あなたの名を入力する必要があります"
+
+#: core/um-actions-account.php:112
+msgid "You must provide your last name"
+msgstr "あなたの姓を入力する必要があります"
+
+#: core/um-actions-account.php:116
+msgid "You must provide your e-mail"
+msgstr "あなたのEメールを入力する必要があります"
+
+#: core/um-actions-account.php:120
+msgid "Please provide a valid e-mail"
+msgstr "有効なEメールを入力してください"
+
+#: core/um-actions-account.php:124
+msgid "Email already linked to another account"
+msgstr "既に別アカウントでリンクされているメールアドレスです"
+
+#: core/um-actions-account.php:138 core/um-actions-account.php:178
+msgid "This is not your password"
+msgstr "これはあなたのパスワードではありません"
+
+#: core/um-actions-account.php:143
+msgid "Your new password does not match"
+msgstr "新しいパスワードが一致しません"
+
+#: core/um-actions-account.php:150 core/um-actions-password.php:194
+msgid "Your password must contain at least 8 characters"
+msgstr "パスワードは8文字以上にしてください"
+
+#: core/um-actions-account.php:154 core/um-actions-password.php:198
+msgid "Your password must contain less than 30 characters"
+msgstr "パスワードは30文字未満にしてください"
+
+#: core/um-actions-account.php:158 core/um-actions-form.php:250
+#: core/um-actions-password.php:202
+msgid ""
+"Your password must contain at least one lowercase letter, one capital letter "
+"and one number"
+msgstr ""
+"パスワードには少なくとも1つの小文字、1つの大文字、1つの数字が含まれている必要"
+"があります"
+
+#: core/um-actions-account.php:168
+msgid "Your username is invalid"
+msgstr "あなたのユーザー名は無効です"
+
+#: core/um-actions-account.php:175
+msgid "You must enter your password"
+msgstr "パスワードを入力する必要があります"
+
+#: core/um-actions-account.php:255
+msgid "Update Privacy"
+msgstr "プライバシーを更新"
+
+#: core/um-actions-account.php:285
+msgid "Update Account"
+msgstr "アカウントを更新"
+
+#: core/um-actions-account.php:315
+msgid "Update Password"
+msgstr "パスワードを更新"
+
+#: core/um-actions-account.php:342
+msgid "Email me when"
+msgstr "私にメールする"
+
+#: core/um-actions-account.php:351
+msgid "Update Notifications"
+msgstr "通知の更新"
+
+#: core/um-actions-ajax.php:50 core/um-actions-ajax.php:66
+#: core/um-actions-ajax.php:120
+msgid "You can not edit this user"
+msgstr "このユーザーを編集することはできません"
+
+#: core/um-actions-ajax.php:84
+msgid "Invalid parameters"
+msgstr "パラメータが無効です"
+
+#: core/um-actions-ajax.php:87
+msgid "Invalid coordinates"
+msgstr "座標が無効です"
+
+#: core/um-actions-ajax.php:90
+msgid "Invalid Image file"
+msgstr "画像ファイルが無効です"
+
+#: core/um-actions-core.php:81
+msgid "You do not have permission to delete this user."
+msgstr "このユーザーを削除する権限がありません。"
+
+#: core/um-actions-form.php:99
+msgid "You are not allowed to use this word as your username."
+msgstr "この単語をユーザー名として使用することはできません。"
+
+#: core/um-actions-form.php:158 core/um-actions-form.php:191
+#: core/um-actions-form.php:195 core/um-actions-form.php:199
+#: core/um-actions-form.php:203
+#, php-format
+msgid "%s is required."
+msgstr "%s が必要です。"
+
+#: core/um-actions-form.php:208
+msgid "Please specify account type."
+msgstr "アカウントタイプを指定してください。"
+
+#: core/um-actions-form.php:216
+#, php-format
+msgid "%s is required"
+msgstr "%s が必要です"
+
+#: core/um-actions-form.php:222
+#, php-format
+msgid "You are only allowed to enter a maximum of %s words"
+msgstr "最大%s文字まで入力することができます"
+
+#: core/um-actions-form.php:228
+#, php-format
+msgid "Your %s must contain at least %s characters"
+msgstr "あなたの%sは、%s文字以上にしてください"
+
+#: core/um-actions-form.php:234
+#, php-format
+msgid "Your %s must contain less than %s characters"
+msgstr "あなたの%sは、%s文字未満にしてください"
+
+#: core/um-actions-form.php:243
+msgid "You can not use HTML tags here"
+msgstr "ここでHTMLタグを使用することはできません"
+
+#: core/um-actions-form.php:256
+msgid "Please confirm your password"
+msgstr "パスワードを確認してください"
+
+#: core/um-actions-form.php:259 core/um-actions-password.php:212
+msgid "Your passwords do not match"
+msgstr "パスワードが一致しません"
+
+#: core/um-actions-form.php:265
+#, php-format
+msgid "Please select at least %s choices"
+msgstr "少なくとも%sの選択肢を選択してください"
+
+#: core/um-actions-form.php:271
+#, php-format
+msgid "You can only select up to %s choices"
+msgstr "%sまでの選択肢しか選択できません"
+
+#: core/um-actions-form.php:286
+msgid "Please enter numbers only in this field"
+msgstr "このフィールドには数字のみを入力してください"
+
+#: core/um-actions-form.php:292
+msgid "Please enter a valid phone number"
+msgstr "有効な電話番号を入力して下さい"
+
+#: core/um-actions-form.php:298 core/um-actions-form.php:304
+#: core/um-actions-form.php:310 core/um-actions-form.php:316
+#: core/um-actions-form.php:322 core/um-actions-form.php:328
+#: core/um-actions-form.php:334 core/um-actions-form.php:340
+#: core/um-actions-form.php:352
+#, php-format
+msgid "Please enter a valid %s username or profile URL"
+msgstr "有効な%sユーザー名、またはプロフィールURLを入力してください"
+
+#: core/um-actions-form.php:346
+msgid "Please enter a valid URL"
+msgstr "有効なURLを入力してください"
+
+#: core/um-actions-form.php:359 core/um-actions-form.php:373
+msgid "You must provide a username"
+msgstr "ユーザー名を入力する必要があります"
+
+#: core/um-actions-form.php:361 core/um-actions-form.php:375
+msgid "Your username is already taken"
+msgstr "あなたのユーザー名はすでに使用されています"
+
+#: core/um-actions-form.php:363
+msgid "Username cannot be an email"
+msgstr "ユーザー名はメールにできません"
+
+#: core/um-actions-form.php:365 core/um-actions-form.php:379
+msgid "Your username contains invalid characters"
+msgstr "あなたのユーザー名に無効な文字が含まれています"
+
+#: core/um-actions-form.php:377 core/um-actions-form.php:397
+#: core/um-actions-form.php:399 core/um-actions-form.php:411
+#: core/um-actions-form.php:418
+msgid "This email is already linked to an existing account"
+msgstr "このEメールは既に別アカウントにリンクされています"
+
+#: core/um-actions-form.php:395
+msgid "You must provide your email"
+msgstr "Eメールを入力する必要があります"
+
+#: core/um-actions-form.php:401 core/um-actions-form.php:409
+msgid "This is not a valid email"
+msgstr "これは有効なメールではありません"
+
+#: core/um-actions-form.php:403
+msgid "Your email contains invalid characters"
+msgstr "Eメールに無効な文字が含まれています"
+
+#: core/um-actions-form.php:443
+msgid "You must provide a unique value"
+msgstr "ユニーク値を入力する必要があります"
+
+#: core/um-actions-form.php:453
+msgid "You must provide alphabetic letters"
+msgstr "アルファベットで入力する必要があります"
+
+#: core/um-actions-form.php:463
+msgid "You must provide lowercase letters."
+msgstr "小文字で入力する必要があります"
+
+#: core/um-actions-form.php:482
+#, php-format
+msgid "Your user description must contain less than %s characters"
+msgstr "ユーザーの説明文は %s 文字未満にする必要があります"
+
+#: core/um-actions-global.php:29
+msgid "Only fill in if you are not human"
+msgstr "あなたが人間でない場合にのみ記入してください"
+
+#: core/um-actions-login.php:18
+msgid "Please enter your username or email"
+msgstr "ユーザー名、またはEメールを入力してください"
+
+#: core/um-actions-login.php:22
+msgid "Please enter your username"
+msgstr "ユーザー名を入力してください"
+
+#: core/um-actions-login.php:26
+msgid "Please enter your email"
+msgstr "Eメールを入力してください"
+
+#: core/um-actions-login.php:50
+msgid " Sorry, we can't find an account with that email address"
+msgstr ""
+"申し訳ありませんが、そのEメールアドレスのアカウントを見つけることができません"
+
+#: core/um-actions-login.php:52
+msgid " Sorry, we can't find an account with that username"
+msgstr ""
+"申し訳ありませんが、そのユーザー名でアカウントを見つけることができません"
+
+#: core/um-actions-login.php:56
+msgid "Please enter your password"
+msgstr "パスワードを入力してください"
+
+#: core/um-actions-login.php:64
+msgid "Password is incorrect. Please try again."
+msgstr "パスワードが正しくありません。 もう一度お試しください。"
+
+#: core/um-actions-login.php:163
+msgid "This action has been prevented for security measures."
+msgstr "このアクションは、セキュリティ対策のために防止されています。"
+
+#: core/um-actions-login.php:242
+msgid "Keep me signed in"
+msgstr "ログイン状態を保存する"
+
+#: core/um-actions-login.php:276
+msgid "Forgot your password?"
+msgstr "パスワードをお忘れですか?"
+
+#: core/um-actions-members.php:64
+msgid "Search"
+msgstr "検索"
+
+#: core/um-actions-members.php:64
+msgid "Reset"
+msgstr "リセット"
+
+#: core/um-actions-members.php:135
+msgid "Jump to page:"
+msgstr "ページへ移動:"
+
+#: core/um-actions-members.php:140
+#, php-format
+msgid "%s of %d"
+msgstr ""
+
+#: core/um-actions-members.php:150
+msgid "First Page"
+msgstr "最初のページへ"
+
+#: core/um-actions-members.php:156
+msgid "Previous"
+msgstr "前へ"
+
+#: core/um-actions-members.php:176
+msgid "Next"
+msgstr "次へ"
+
+#: core/um-actions-members.php:182
+msgid "Last Page"
+msgstr "最後のページヘ"
+
+#: core/um-actions-misc.php:64 core/um-actions-misc.php:99
+msgid "Registration is currently disabled"
+msgstr "現在、登録は無効になっています。"
+
+#: core/um-actions-misc.php:75
+msgid "Your account was updated successfully."
+msgstr "アカウントが正常に更新されました。"
+
+#: core/um-actions-misc.php:79
+msgid "You have successfully changed your password."
+msgstr "パスワードが正常に変更されました。"
+
+#: core/um-actions-misc.php:83
+msgid "Your account is now active! You can login."
+msgstr "あなたのアカウントは現在アクティブです! ログインできます。"
+
+#: core/um-actions-misc.php:95
+msgid "An error has been encountered"
+msgstr "エラーが発生しました"
+
+#: core/um-actions-misc.php:103 core/um-filters-login.php:33
+msgid "This email address has been blocked."
+msgstr "このメールアドレスはブロックされています。"
+
+#: core/um-actions-misc.php:107
+msgid "We do not accept registrations from that domain."
+msgstr "そのドメインからの登録を受け付けません。"
+
+#: core/um-actions-misc.php:111 core/um-filters-login.php:36
+msgid "Your IP address has been blocked."
+msgstr "あなたのIPアドレスはブロックされています。"
+
+#: core/um-actions-misc.php:115 core/um-filters-login.php:78
+msgid "Your account has been disabled."
+msgstr "あなたのアカウントは無効になっています。"
+
+#: core/um-actions-misc.php:119 core/um-filters-login.php:81
+msgid "Your account has not been approved yet."
+msgstr "あなたのアカウントは、まだ承認されていません。"
+
+#: core/um-actions-misc.php:123 core/um-filters-login.php:84
+msgid "Your account is awaiting e-mail verification."
+msgstr "あなたのアカウントはEメールの確認を待っています。"
+
+#: core/um-actions-misc.php:127 core/um-filters-login.php:87
+msgid "Your membership request has been rejected."
+msgstr "メンバーのリクエストは拒否されました。"
+
+#: core/um-actions-password.php:104 core/um-actions-password.php:167
+#: core/um-form.php:150
+msgid "Hello, spam bot!"
+msgstr "こんにちは、スパムボット!"
+
+#: core/um-actions-password.php:107 core/um-actions-password.php:170
+#: core/um-form.php:153
+msgid ""
+"Whoa, slow down! You're seeing this message because you tried to submit a "
+"form too fast and we think you might be a spam bot. If you are a real human "
+"being please wait a few seconds before submitting the form. Thanks!"
+msgstr ""
+"おっと、もう少しゆっくり! フォームをあまりにも早く提出しようとしたため、この"
+"メッセージが表示されています。あなたがスパムボットである可能性があります。 本"
+"当の人間なら、フォームを提出する前に数秒待ってください。よろしくお願いしま"
+"す。"
+
+#: core/um-actions-password.php:118
+msgid "Please provide your username or email"
+msgstr "ユーザー名、または電子メールを入力してください"
+
+#: core/um-actions-password.php:122
+msgid "We can't find an account registered with that address or username"
+msgstr "そのアドレス、またはユーザー名で登録されたアカウントが見つかりません"
+
+#: core/um-actions-password.php:141
+msgid ""
+"You have reached the limit for requesting password change for this user "
+"already. Contact support if you cannot open the email"
+msgstr ""
+"パスワード変更の要求が制限に達しています。 メールを開くことができない場合は、"
+"サポートにお問い合わせください"
+
+#: core/um-actions-password.php:188
+msgid "You must enter a new password"
+msgstr "新しいパスワードを入力してください"
+
+#: core/um-actions-password.php:208
+msgid "You must confirm your new password"
+msgstr "新しいパスワードを確認してください"
+
+#: core/um-actions-password.php:266
+msgid "Reset my password"
+msgstr "パスワードをリセット"
+
+#: core/um-actions-password.php:293
+msgid "Change my password"
+msgstr "パスワードを変更"
+
+#: core/um-actions-profile.php:56
+msgid "You are not allowed to edit this user."
+msgstr "このユーザーを編集することはできません。"
+
+#: core/um-actions-profile.php:200 core/um-builtin.php:954
+msgid "Change your cover photo"
+msgstr "あなたのカバー写真を変更"
+
+#: core/um-actions-profile.php:216
+msgid "Change cover photo"
+msgstr "カバー写真を変更"
+
+#: core/um-actions-profile.php:258
+msgid "Upload a cover photo"
+msgstr "カバー写真をアップロード"
+
+#: core/um-actions-profile.php:331
+msgid "Upload photo"
+msgstr "写真をアップロード"
+
+#: core/um-actions-profile.php:342 core/um-fields.php:1616
+#: core/um-fields.php:1651
+msgid "Change photo"
+msgstr "写真を変更"
+
+#: core/um-actions-profile.php:343
+msgid "Remove photo"
+msgstr "写真を削除"
+
+#: core/um-actions-profile.php:404
+msgid "Tell us a bit about yourself..."
+msgstr "あなたについて少し教えてください..."
+
+#: core/um-actions-profile.php:417
+#, php-format
+msgid "This user account status is %s"
+msgstr "このユーザーアカウントのステータスは %s です。"
+
+#: core/um-actions-profile.php:502
+msgid "Edit Profile"
+msgstr "プロフィールを編集"
+
+#: core/um-actions-profile.php:503
+msgid "My Account"
+msgstr "マイアカウント"
+
+#: core/um-actions-profile.php:504 core/um-actions-user.php:79
+msgid "Logout"
+msgstr "ログアウト"
+
+#: core/um-actions-user.php:78
+msgid "Your account"
+msgstr "あなたのアカウント"
+
+#: core/um-api.php:133
+msgid "You must specify both a token and API key!"
+msgstr "トークンとAPI keyの両方を指定する必要があります。"
+
+#: core/um-api.php:144
+msgid "Your request could not be authenticated"
+msgstr "リクエストは認証できませんでした"
+
+#: core/um-api.php:155
+msgid "Invalid API key"
+msgstr "API keyは無効です"
+
+#: core/um-api.php:293 core/um-api.php:338 core/um-api.php:375
+#: core/um-api.php:482 core/um-api.php:511
+msgid "You must provide a user ID"
+msgstr "ユーザーIDを入力する必要があります"
+
+#: core/um-api.php:298
+msgid "You need to provide data to update"
+msgstr "更新するデータを提供する必要があります"
+
+#: core/um-api.php:307
+msgid "User status has been changed."
+msgstr "ユーザーステータスが変更されました。"
+
+#: core/um-api.php:311
+msgid "User level has been changed."
+msgstr "ユーザーレベルが変更されました。"
+
+#: core/um-api.php:316
+msgid "User WordPress role has been changed."
+msgstr "ユーザーのWordPress権限グループが変更されました。"
+
+#: core/um-api.php:320
+msgid "User meta has been changed."
+msgstr "ユーザーのメタ情報が変更されました。"
+
+#: core/um-api.php:346 core/um-api.php:383
+msgid "No users were found"
+msgstr "ユーザーが見つかりませんでした"
+
+#: core/um-api.php:357 core/um-api.php:394
+msgid "Invalid request"
+msgstr "リクエストは無効です"
+
+#: core/um-api.php:488 core/um-api.php:517
+msgid "Invalid user specified"
+msgstr "指定ユーザーは無効です"
+
+#: core/um-api.php:495
+msgid "User has been successfully deleted."
+msgstr "ユーザーは正常に削除されました。"
+
+#: core/um-api.php:639
+msgid "Invalid query!"
+msgstr "クエリが無効です!"
+
+#: core/um-api.php:745
+msgid "Ultimate Member REST API"
+msgstr ""
+
+#: core/um-api.php:750
+msgid "Generate API Key"
+msgstr "API Keyを生成する"
+
+#: core/um-api.php:753
+msgid "Public key:"
+msgstr ""
+
+#: core/um-api.php:754
+msgid "Secret key:"
+msgstr ""
+
+#: core/um-api.php:755
+msgid "Token:"
+msgstr ""
+
+#: core/um-api.php:758
+msgid "Revoke API Keys"
+msgstr ""
+
+#: core/um-builtin.php:82
+msgid "Your meta key is a reserved core field and cannot be used"
+msgstr "あなたのmeta keyは予約済みのコアフィールドであり、使用できません"
+
+#: core/um-builtin.php:83
+msgid "Your meta key is a predefined reserved key and cannot be used"
+msgstr "あなたのmeta keyは定義された予約キーであり、使用することはできません"
+
+#: core/um-builtin.php:84
+msgid "Your meta key already exists in your fields list"
+msgstr "あなたのmeta keyはすでにあなたのフィールドリストにあります"
+
+#: core/um-builtin.php:85
+msgid "Your meta key contains illegal characters. Please correct it."
+msgstr "meta keyに不正な文字が含まれています。修正してください。"
+
+#: core/um-builtin.php:94
+msgid "Please provide a date range beginning"
+msgstr "開始日の範囲を指定してください"
+
+#: core/um-builtin.php:95
+msgid "Please enter a valid start date in the date range"
+msgstr "有効な開始日の範囲を入力してください"
+
+#: core/um-builtin.php:104
+msgid "Please provide a date range end"
+msgstr "終了日の範囲を指定してください"
+
+#: core/um-builtin.php:105
+msgid "Please enter a valid end date in the date range"
+msgstr "有効な終了日の範囲を入力してください"
+
+#: core/um-builtin.php:106
+msgid "The end of date range must be greater than the start of date range"
+msgstr "終了日の範囲は、開始日の範囲より大きくする必要があります"
+
+#: core/um-builtin.php:142 core/um-builtin.php:158 core/um-builtin.php:174
+#: core/um-builtin.php:190 core/um-builtin.php:210 core/um-builtin.php:230
+#: core/um-builtin.php:250 core/um-builtin.php:270 core/um-builtin.php:286
+#: core/um-builtin.php:302 core/um-builtin.php:322 core/um-builtin.php:342
+#: core/um-builtin.php:368 core/um-builtin.php:384 core/um-builtin.php:401
+#: core/um-builtin.php:414 core/um-builtin.php:431 core/um-builtin.php:444
+#: core/um-builtin.php:457 core/um-builtin.php:473 core/um-builtin.php:489
+#: core/um-builtin.php:505
+msgid "You must provide a title"
+msgstr "あなたはタイトルを入力する必要があります"
+
+#: core/um-builtin.php:151
+msgid "Number"
+msgstr ""
+
+#: core/um-builtin.php:197 core/um-builtin.php:217 core/um-builtin.php:237
+#: core/um-builtin.php:257
+msgid "You have not added any choices yet."
+msgstr "あなたはまだ選択肢を追加していません。"
+
+#: core/um-builtin.php:309 core/um-builtin.php:329
+msgid "Please enter a valid size"
+msgstr "有効なサイズを入力してください"
+
+#: core/um-builtin.php:349
+msgid "Number of years is not valid"
+msgstr "年数が有効ではありません"
+
+#: core/um-builtin.php:418
+msgid "You must add a shortcode to the content area"
+msgstr "コンテンツエリアにショートコードを追加する必要があります"
+
+#: core/um-builtin.php:551 core/um-builtin.php:994
+msgid "Everyone"
+msgstr "すべてのユーザー"
+
+#: core/um-builtin.php:551 core/um-user.php:841
+msgid "Only me"
+msgstr "自分のみ"
+
+#: core/um-builtin.php:556 core/um-builtin.php:559 um-config.php:116
+#: um-config.php:135
+msgid "Username"
+msgstr "ユーザー名"
+
+#: core/um-builtin.php:569 core/um-builtin.php:572 core/um-builtin.php:973
+msgid "Username or E-mail"
+msgstr "ユーザー名、またはEメール"
+
+#: core/um-builtin.php:580 core/um-builtin.php:583 core/um-builtin.php:1031
+#: core/um-builtin.php:1034
+msgid "Password"
+msgstr "パスワード"
+
+#: core/um-builtin.php:614 core/um-builtin.php:617 um-config.php:134
+msgid "Nickname"
+msgstr "ニックネーム"
+
+#: core/um-builtin.php:624 core/um-builtin.php:627
+msgid "Registration Date"
+msgstr "登録日"
+
+#: core/um-builtin.php:635 core/um-builtin.php:638
+msgid "Last Login"
+msgstr "前回のログイン"
+
+#: core/um-builtin.php:646 core/um-builtin.php:649
+msgid "E-mail Address"
+msgstr "Eメールアドレス"
+
+#: core/um-builtin.php:656 core/um-builtin.php:659
+msgid "Secondary E-mail Address"
+msgstr "セカンダリEメールアドレス"
+
+#: core/um-builtin.php:667 core/um-builtin.php:670
+msgid "Biography"
+msgstr "説明文"
+
+#: core/um-builtin.php:680 core/um-builtin.php:683
+msgid "Birth Date"
+msgstr "誕生日"
+
+#: core/um-builtin.php:694 core/um-builtin.php:697
+msgid "Gender"
+msgstr "性別"
+
+#: core/um-builtin.php:701
+msgid "Male"
+msgstr "男性"
+
+#: core/um-builtin.php:701
+msgid "Female"
+msgstr "女性"
+
+#: core/um-builtin.php:705 core/um-builtin.php:708
+msgid "Country"
+msgstr "国"
+
+#: core/um-builtin.php:709
+msgid "Choose a Country"
+msgstr "国を選択"
+
+#: core/um-builtin.php:717 core/um-builtin.php:720
+msgid "Facebook"
+msgstr ""
+
+#: core/um-builtin.php:735 core/um-builtin.php:738
+msgid "Twitter"
+msgstr ""
+
+#: core/um-builtin.php:753 core/um-builtin.php:756
+msgid "LinkedIn"
+msgstr ""
+
+#: core/um-builtin.php:771 core/um-builtin.php:774
+msgid "Google+"
+msgstr ""
+
+#: core/um-builtin.php:789 core/um-builtin.php:792
+msgid "Instagram"
+msgstr ""
+
+#: core/um-builtin.php:807 core/um-builtin.php:810 core/um-builtin.php:1153
+msgid "Skype ID"
+msgstr ""
+
+#: core/um-builtin.php:822 core/um-builtin.php:825
+msgid "YouTube"
+msgstr ""
+
+#: core/um-builtin.php:840 core/um-builtin.php:843
+msgid "SoundCloud"
+msgstr ""
+
+#: core/um-builtin.php:858 core/um-builtin.php:861
+msgid "VKontakte"
+msgstr ""
+
+#: core/um-builtin.php:876
+msgid "Roles (Dropdown)"
+msgstr "権限グループ(ドロップダウン)"
+
+#: core/um-builtin.php:879 core/um-builtin.php:891
+msgid "Account Type"
+msgstr "アカウントタイプ"
+
+#: core/um-builtin.php:888
+msgid "Roles (Radio)"
+msgstr "権限グループ(ラジオ)"
+
+#: core/um-builtin.php:899
+msgid "Languages"
+msgstr "言語"
+
+#: core/um-builtin.php:902
+msgid "Languages Spoken"
+msgstr "話す言語"
+
+#: core/um-builtin.php:903
+msgid "Select languages"
+msgstr "言語を選択"
+
+#: core/um-builtin.php:911 core/um-builtin.php:914 core/um-builtin.php:1152
+msgid "Phone Number"
+msgstr "電話番号"
+
+#: core/um-builtin.php:923 core/um-builtin.php:926
+msgid "Mobile Number"
+msgstr "携帯電話番号"
+
+#: core/um-builtin.php:937
+msgid "Profile Photo"
+msgstr "プロフィール写真"
+
+#: core/um-builtin.php:940
+msgid "Change your profile photo"
+msgstr "あなたのプロフィール写真を変更"
+
+#: core/um-builtin.php:941
+msgid "Upload your photo here"
+msgstr "あなたの写真をここにアップロード"
+
+#: core/um-builtin.php:951
+msgid "Cover Photo"
+msgstr "カバー写真"
+
+#: core/um-builtin.php:955
+msgid "Upload profile cover here"
+msgstr "プロフィールのカバー写真をここにアップロード"
+
+#: core/um-builtin.php:966
+msgid "Password Reset"
+msgstr "パスワードリセット"
+
+#: core/um-builtin.php:968
+msgid ""
+"To reset your password, please enter your email address or username below"
+msgstr ""
+"パスワードをリセットするには、下にメールアドレス、またはユーザー名を入力して"
+"ください"
+
+#: core/um-builtin.php:976
+msgid "Enter your username or email"
+msgstr "ユーザー名、またはEメールを入力してください"
+
+#: core/um-builtin.php:986 core/um-builtin.php:989
+msgid "Profile Privacy"
+msgstr "プロフィールプライバシー"
+
+#: core/um-builtin.php:990
+msgid "Who can see your public profile?"
+msgstr "公開プロフィールを誰が見られますか?"
+
+#: core/um-builtin.php:1002 core/um-builtin.php:1005
+msgid "Hide my profile from directory"
+msgstr "ディレクトリから自分のプロフィールを隠す"
+
+#: core/um-builtin.php:1006
+msgid "Here you can hide yourself from appearing in public directory"
+msgstr "公開ディレクトリからあなたのプロフィールを隠すことができます"
+
+#: core/um-builtin.php:1021
+msgid ""
+"If you confirm, everything related to your profile will be deleted "
+"permanently from the site"
+msgstr ""
+"あなたが承認すると、プロフィールに関連するものはすべてサイトから永久に削除さ"
+"れます"
+
+#: core/um-builtin.php:1142
+msgid "Alphabetic value only"
+msgstr "アルファベットの値のみ"
+
+#: core/um-builtin.php:1143
+msgid "Alpha-numeric value"
+msgstr "英数字"
+
+#: core/um-builtin.php:1144
+msgid "English letters only"
+msgstr "英語の文字のみ"
+
+#: core/um-builtin.php:1145
+msgid "Facebook URL"
+msgstr ""
+
+#: core/um-builtin.php:1146
+msgid "Google+ URL"
+msgstr ""
+
+#: core/um-builtin.php:1147
+msgid "Instagram URL"
+msgstr ""
+
+#: core/um-builtin.php:1148
+msgid "LinkedIn URL"
+msgstr ""
+
+#: core/um-builtin.php:1149
+msgid "VKontakte URL"
+msgstr ""
+
+#: core/um-builtin.php:1150
+msgid "Lowercase only"
+msgstr ""
+
+#: core/um-builtin.php:1151
+msgid "Numeric value only"
+msgstr ""
+
+#: core/um-builtin.php:1154
+msgid "SoundCloud Profile"
+msgstr ""
+
+#: core/um-builtin.php:1155
+msgid "Twitter URL"
+msgstr ""
+
+#: core/um-builtin.php:1156
+msgid "Unique E-mail"
+msgstr ""
+
+#: core/um-builtin.php:1157
+msgid "Unique Metakey value"
+msgstr ""
+
+#: core/um-builtin.php:1158
+msgid "Unique Username"
+msgstr "ユニークなユーザー名"
+
+#: core/um-builtin.php:1159
+msgid "Unique Username/E-mail"
+msgstr "ユニークなユーザー名/Eメール"
+
+#: core/um-builtin.php:1160
+msgid "Website URL"
+msgstr "ウェブサイトURL"
+
+#: core/um-builtin.php:1161
+msgid "YouTube Profile"
+msgstr ""
+
+#: core/um-builtin.php:1162
+msgid "Custom Validation"
+msgstr ""
+
+#: core/um-builtin.php:1176
+msgid "Afar"
+msgstr ""
+
+#: core/um-builtin.php:1177
+msgid "Abkhazian"
+msgstr ""
+
+#: core/um-builtin.php:1178
+msgid "Avestan"
+msgstr ""
+
+#: core/um-builtin.php:1179
+msgid "Afrikaans"
+msgstr ""
+
+#: core/um-builtin.php:1180
+msgid "Akan"
+msgstr ""
+
+#: core/um-builtin.php:1181
+msgid "Amharic"
+msgstr ""
+
+#: core/um-builtin.php:1182
+msgid "Aragonese"
+msgstr ""
+
+#: core/um-builtin.php:1183
+msgid "Arabic"
+msgstr ""
+
+#: core/um-builtin.php:1184
+msgid "Assamese"
+msgstr ""
+
+#: core/um-builtin.php:1185
+msgid "Avaric"
+msgstr ""
+
+#: core/um-builtin.php:1186
+msgid "Aymara"
+msgstr ""
+
+#: core/um-builtin.php:1187
+msgid "Azerbaijani"
+msgstr ""
+
+#: core/um-builtin.php:1188
+msgid "Bashkir"
+msgstr ""
+
+#: core/um-builtin.php:1189
+msgid "Belarusian"
+msgstr ""
+
+#: core/um-builtin.php:1190
+msgid "Bulgarian"
+msgstr ""
+
+#: core/um-builtin.php:1191
+msgid "Bihari"
+msgstr ""
+
+#: core/um-builtin.php:1192
+msgid "Bislama"
+msgstr ""
+
+#: core/um-builtin.php:1193
+msgid "Bambara"
+msgstr ""
+
+#: core/um-builtin.php:1194
+msgid "Bengali"
+msgstr ""
+
+#: core/um-builtin.php:1195
+msgid "Tibetan"
+msgstr ""
+
+#: core/um-builtin.php:1196
+msgid "Breton"
+msgstr ""
+
+#: core/um-builtin.php:1197
+msgid "Bosnian"
+msgstr ""
+
+#: core/um-builtin.php:1198
+msgid "Catalan"
+msgstr ""
+
+#: core/um-builtin.php:1199
+msgid "Chechen"
+msgstr ""
+
+#: core/um-builtin.php:1200
+msgid "Chamorro"
+msgstr ""
+
+#: core/um-builtin.php:1201
+msgid "Corsican"
+msgstr ""
+
+#: core/um-builtin.php:1202
+msgid "Cree"
+msgstr ""
+
+#: core/um-builtin.php:1203
+msgid "Czech"
+msgstr ""
+
+#: core/um-builtin.php:1204
+msgid "Church Slavic"
+msgstr ""
+
+#: core/um-builtin.php:1205
+msgid "Chuvash"
+msgstr ""
+
+#: core/um-builtin.php:1206
+msgid "Welsh"
+msgstr ""
+
+#: core/um-builtin.php:1207
+msgid "Danish"
+msgstr ""
+
+#: core/um-builtin.php:1208
+msgid "German"
+msgstr ""
+
+#: core/um-builtin.php:1209
+msgid "Divehi"
+msgstr ""
+
+#: core/um-builtin.php:1210
+msgid "Dzongkha"
+msgstr ""
+
+#: core/um-builtin.php:1211
+msgid "Ewe"
+msgstr ""
+
+#: core/um-builtin.php:1212
+msgid "Greek"
+msgstr ""
+
+#: core/um-builtin.php:1213
+msgid "English"
+msgstr ""
+
+#: core/um-builtin.php:1214
+msgid "Esperanto"
+msgstr ""
+
+#: core/um-builtin.php:1215
+msgid "Spanish"
+msgstr ""
+
+#: core/um-builtin.php:1216
+msgid "Estonian"
+msgstr ""
+
+#: core/um-builtin.php:1217
+msgid "Basque"
+msgstr ""
+
+#: core/um-builtin.php:1218
+msgid "Persian"
+msgstr ""
+
+#: core/um-builtin.php:1219
+msgid "Fulah"
+msgstr ""
+
+#: core/um-builtin.php:1220
+msgid "Finnish"
+msgstr ""
+
+#: core/um-builtin.php:1221
+msgid "Fijian"
+msgstr ""
+
+#: core/um-builtin.php:1222
+msgid "Faroese"
+msgstr ""
+
+#: core/um-builtin.php:1223
+msgid "French"
+msgstr ""
+
+#: core/um-builtin.php:1224
+msgid "Western Frisian"
+msgstr ""
+
+#: core/um-builtin.php:1225
+msgid "Irish"
+msgstr ""
+
+#: core/um-builtin.php:1226
+msgid "Scottish Gaelic"
+msgstr ""
+
+#: core/um-builtin.php:1227
+msgid "Galician"
+msgstr ""
+
+#: core/um-builtin.php:1228
+msgid "Guarani"
+msgstr ""
+
+#: core/um-builtin.php:1229
+msgid "Gujarati"
+msgstr ""
+
+#: core/um-builtin.php:1230
+msgid "Manx"
+msgstr ""
+
+#: core/um-builtin.php:1231
+msgid "Hausa"
+msgstr ""
+
+#: core/um-builtin.php:1232
+msgid "Hebrew"
+msgstr ""
+
+#: core/um-builtin.php:1233
+msgid "Hindi"
+msgstr ""
+
+#: core/um-builtin.php:1234
+msgid "Hiri Motu"
+msgstr ""
+
+#: core/um-builtin.php:1235
+msgid "Croatian"
+msgstr ""
+
+#: core/um-builtin.php:1236
+msgid "Haitian"
+msgstr ""
+
+#: core/um-builtin.php:1237
+msgid "Hungarian"
+msgstr ""
+
+#: core/um-builtin.php:1238
+msgid "Armenian"
+msgstr ""
+
+#: core/um-builtin.php:1239
+msgid "Herero"
+msgstr ""
+
+#: core/um-builtin.php:1240
+msgid "Interlingua (International Auxiliary Language Association)"
+msgstr ""
+
+#: core/um-builtin.php:1241
+msgid "Indonesian"
+msgstr ""
+
+#: core/um-builtin.php:1242
+msgid "Interlingue"
+msgstr ""
+
+#: core/um-builtin.php:1243
+msgid "Igbo"
+msgstr ""
+
+#: core/um-builtin.php:1244
+msgid "Sichuan Yi"
+msgstr ""
+
+#: core/um-builtin.php:1245
+msgid "Inupiaq"
+msgstr ""
+
+#: core/um-builtin.php:1246
+msgid "Ido"
+msgstr ""
+
+#: core/um-builtin.php:1247
+msgid "Icelandic"
+msgstr ""
+
+#: core/um-builtin.php:1248
+msgid "Italian"
+msgstr ""
+
+#: core/um-builtin.php:1249
+msgid "Inuktitut"
+msgstr ""
+
+#: core/um-builtin.php:1250
+msgid "Japanese"
+msgstr "日本語"
+
+#: core/um-builtin.php:1251
+msgid "Javanese"
+msgstr ""
+
+#: core/um-builtin.php:1252
+msgid "Georgian"
+msgstr ""
+
+#: core/um-builtin.php:1253
+msgid "Kongo"
+msgstr ""
+
+#: core/um-builtin.php:1254
+msgid "Kikuyu"
+msgstr ""
+
+#: core/um-builtin.php:1255
+msgid "Kwanyama"
+msgstr ""
+
+#: core/um-builtin.php:1256
+msgid "Kazakh"
+msgstr ""
+
+#: core/um-builtin.php:1257
+msgid "Kalaallisut"
+msgstr ""
+
+#: core/um-builtin.php:1258
+msgid "Khmer"
+msgstr ""
+
+#: core/um-builtin.php:1259
+msgid "Kannada"
+msgstr ""
+
+#: core/um-builtin.php:1260
+msgid "Korean"
+msgstr ""
+
+#: core/um-builtin.php:1261
+msgid "Kanuri"
+msgstr ""
+
+#: core/um-builtin.php:1262
+msgid "Kashmiri"
+msgstr ""
+
+#: core/um-builtin.php:1263
+msgid "Kurdish"
+msgstr ""
+
+#: core/um-builtin.php:1264
+msgid "Komi"
+msgstr ""
+
+#: core/um-builtin.php:1265
+msgid "Cornish"
+msgstr ""
+
+#: core/um-builtin.php:1266
+msgid "Kirghiz"
+msgstr ""
+
+#: core/um-builtin.php:1267
+msgid "Latin"
+msgstr ""
+
+#: core/um-builtin.php:1268
+msgid "Luxembourgish"
+msgstr ""
+
+#: core/um-builtin.php:1269
+msgid "Ganda"
+msgstr ""
+
+#: core/um-builtin.php:1270
+msgid "Limburgish"
+msgstr ""
+
+#: core/um-builtin.php:1271
+msgid "Lingala"
+msgstr ""
+
+#: core/um-builtin.php:1272
+msgid "Lao"
+msgstr ""
+
+#: core/um-builtin.php:1273
+msgid "Lithuanian"
+msgstr ""
+
+#: core/um-builtin.php:1274
+msgid "Luba-Katanga"
+msgstr ""
+
+#: core/um-builtin.php:1275
+msgid "Latvian"
+msgstr ""
+
+#: core/um-builtin.php:1276
+msgid "Malagasy"
+msgstr ""
+
+#: core/um-builtin.php:1277
+msgid "Marshallese"
+msgstr ""
+
+#: core/um-builtin.php:1278
+msgid "Maori"
+msgstr ""
+
+#: core/um-builtin.php:1279
+msgid "Macedonian"
+msgstr ""
+
+#: core/um-builtin.php:1280
+msgid "Malayalam"
+msgstr ""
+
+#: core/um-builtin.php:1281
+msgid "Mongolian"
+msgstr ""
+
+#: core/um-builtin.php:1282
+msgid "Marathi"
+msgstr ""
+
+#: core/um-builtin.php:1283
+msgid "Malay"
+msgstr ""
+
+#: core/um-builtin.php:1284
+msgid "Maltese"
+msgstr ""
+
+#: core/um-builtin.php:1285
+msgid "Burmese"
+msgstr ""
+
+#: core/um-builtin.php:1286 core/um-builtin.php:1517
+msgid "Nauru"
+msgstr ""
+
+#: core/um-builtin.php:1287
+msgid "Norwegian Bokmal"
+msgstr ""
+
+#: core/um-builtin.php:1288
+msgid "North Ndebele"
+msgstr ""
+
+#: core/um-builtin.php:1289
+msgid "Nepali"
+msgstr ""
+
+#: core/um-builtin.php:1290
+msgid "Ndonga"
+msgstr ""
+
+#: core/um-builtin.php:1291
+msgid "Dutch"
+msgstr ""
+
+#: core/um-builtin.php:1292
+msgid "Norwegian Nynorsk"
+msgstr ""
+
+#: core/um-builtin.php:1293
+msgid "Norwegian"
+msgstr ""
+
+#: core/um-builtin.php:1294
+msgid "South Ndebele"
+msgstr ""
+
+#: core/um-builtin.php:1295
+msgid "Navajo"
+msgstr ""
+
+#: core/um-builtin.php:1296
+msgid "Chichewa"
+msgstr ""
+
+#: core/um-builtin.php:1297
+msgid "Occitan"
+msgstr ""
+
+#: core/um-builtin.php:1298
+msgid "Ojibwa"
+msgstr ""
+
+#: core/um-builtin.php:1299
+msgid "Oromo"
+msgstr ""
+
+#: core/um-builtin.php:1300
+msgid "Oriya"
+msgstr ""
+
+#: core/um-builtin.php:1301
+msgid "Ossetian"
+msgstr ""
+
+#: core/um-builtin.php:1302
+msgid "Panjabi"
+msgstr ""
+
+#: core/um-builtin.php:1303
+msgid "Pali"
+msgstr ""
+
+#: core/um-builtin.php:1304
+msgid "Polish"
+msgstr ""
+
+#: core/um-builtin.php:1305
+msgid "Pashto"
+msgstr ""
+
+#: core/um-builtin.php:1306
+msgid "Portuguese"
+msgstr ""
+
+#: core/um-builtin.php:1307
+msgid "Quechua"
+msgstr ""
+
+#: core/um-builtin.php:1308
+msgid "Raeto-Romance"
+msgstr ""
+
+#: core/um-builtin.php:1309
+msgid "Kirundi"
+msgstr ""
+
+#: core/um-builtin.php:1310
+msgid "Romanian"
+msgstr ""
+
+#: core/um-builtin.php:1311
+msgid "Russian"
+msgstr ""
+
+#: core/um-builtin.php:1312
+msgid "Kinyarwanda"
+msgstr ""
+
+#: core/um-builtin.php:1313
+msgid "Sanskrit"
+msgstr ""
+
+#: core/um-builtin.php:1314
+msgid "Sardinian"
+msgstr ""
+
+#: core/um-builtin.php:1315
+msgid "Sindhi"
+msgstr ""
+
+#: core/um-builtin.php:1316
+msgid "Northern Sami"
+msgstr ""
+
+#: core/um-builtin.php:1317
+msgid "Sango"
+msgstr ""
+
+#: core/um-builtin.php:1318
+msgid "Sinhala"
+msgstr ""
+
+#: core/um-builtin.php:1319
+msgid "Slovak"
+msgstr ""
+
+#: core/um-builtin.php:1320
+msgid "Slovenian"
+msgstr ""
+
+#: core/um-builtin.php:1321
+msgid "Samoan"
+msgstr ""
+
+#: core/um-builtin.php:1322
+msgid "Shona"
+msgstr ""
+
+#: core/um-builtin.php:1323
+msgid "Somali"
+msgstr ""
+
+#: core/um-builtin.php:1324
+msgid "Albanian"
+msgstr ""
+
+#: core/um-builtin.php:1325
+msgid "Serbian"
+msgstr ""
+
+#: core/um-builtin.php:1326
+msgid "Swati"
+msgstr ""
+
+#: core/um-builtin.php:1327
+msgid "Southern Sotho"
+msgstr ""
+
+#: core/um-builtin.php:1328
+msgid "Sundanese"
+msgstr ""
+
+#: core/um-builtin.php:1329
+msgid "Swedish"
+msgstr ""
+
+#: core/um-builtin.php:1330
+msgid "Swahili"
+msgstr ""
+
+#: core/um-builtin.php:1331
+msgid "Tamil"
+msgstr ""
+
+#: core/um-builtin.php:1332
+msgid "Telugu"
+msgstr ""
+
+#: core/um-builtin.php:1333
+msgid "Tajik"
+msgstr ""
+
+#: core/um-builtin.php:1334
+msgid "Thai"
+msgstr ""
+
+#: core/um-builtin.php:1335
+msgid "Tigrinya"
+msgstr ""
+
+#: core/um-builtin.php:1336
+msgid "Turkmen"
+msgstr ""
+
+#: core/um-builtin.php:1337
+msgid "Tagalog"
+msgstr ""
+
+#: core/um-builtin.php:1338
+msgid "Tswana"
+msgstr ""
+
+#: core/um-builtin.php:1339 core/um-builtin.php:1587
+msgid "Tonga"
+msgstr ""
+
+#: core/um-builtin.php:1340
+msgid "Turkish"
+msgstr ""
+
+#: core/um-builtin.php:1341
+msgid "Tsonga"
+msgstr ""
+
+#: core/um-builtin.php:1342
+msgid "Tatar"
+msgstr ""
+
+#: core/um-builtin.php:1343
+msgid "Twi"
+msgstr ""
+
+#: core/um-builtin.php:1344
+msgid "Tahitian"
+msgstr ""
+
+#: core/um-builtin.php:1345
+msgid "Uighur"
+msgstr ""
+
+#: core/um-builtin.php:1346
+msgid "Ukrainian"
+msgstr ""
+
+#: core/um-builtin.php:1347
+msgid "Urdu"
+msgstr ""
+
+#: core/um-builtin.php:1348
+msgid "Uzbek"
+msgstr ""
+
+#: core/um-builtin.php:1349
+msgid "Venda"
+msgstr ""
+
+#: core/um-builtin.php:1350
+msgid "Vietnamese"
+msgstr ""
+
+#: core/um-builtin.php:1351
+msgid "Volapuk"
+msgstr ""
+
+#: core/um-builtin.php:1352
+msgid "Walloon"
+msgstr ""
+
+#: core/um-builtin.php:1353
+msgid "Wolof"
+msgstr ""
+
+#: core/um-builtin.php:1354
+msgid "Xhosa"
+msgstr ""
+
+#: core/um-builtin.php:1355
+msgid "Yiddish"
+msgstr ""
+
+#: core/um-builtin.php:1356
+msgid "Yoruba"
+msgstr ""
+
+#: core/um-builtin.php:1357
+msgid "Zhuang"
+msgstr ""
+
+#: core/um-builtin.php:1358
+msgid "Chinese"
+msgstr ""
+
+#: core/um-builtin.php:1359
+msgid "Zulu"
+msgstr ""
+
+#: core/um-builtin.php:1365
+msgid "Afghanistan"
+msgstr ""
+
+#: core/um-builtin.php:1366
+msgid "Åland Islands"
+msgstr ""
+
+#: core/um-builtin.php:1367
+msgid "Albania"
+msgstr ""
+
+#: core/um-builtin.php:1368
+msgid "Algeria"
+msgstr ""
+
+#: core/um-builtin.php:1369
+msgid "American Samoa"
+msgstr ""
+
+#: core/um-builtin.php:1370
+msgid "Andorra"
+msgstr ""
+
+#: core/um-builtin.php:1371
+msgid "Angola"
+msgstr ""
+
+#: core/um-builtin.php:1372
+msgid "Anguilla"
+msgstr ""
+
+#: core/um-builtin.php:1373
+msgid "Antarctica"
+msgstr ""
+
+#: core/um-builtin.php:1374
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: core/um-builtin.php:1375
+msgid "Argentina"
+msgstr ""
+
+#: core/um-builtin.php:1376
+msgid "Armenia"
+msgstr ""
+
+#: core/um-builtin.php:1377
+msgid "Aruba"
+msgstr ""
+
+#: core/um-builtin.php:1378
+msgid "Australia"
+msgstr ""
+
+#: core/um-builtin.php:1379
+msgid "Austria"
+msgstr ""
+
+#: core/um-builtin.php:1380
+msgid "Azerbaijan"
+msgstr ""
+
+#: core/um-builtin.php:1381
+msgid "Bahamas"
+msgstr ""
+
+#: core/um-builtin.php:1382
+msgid "Bahrain"
+msgstr ""
+
+#: core/um-builtin.php:1383
+msgid "Bangladesh"
+msgstr ""
+
+#: core/um-builtin.php:1384
+msgid "Barbados"
+msgstr ""
+
+#: core/um-builtin.php:1385
+msgid "Belarus"
+msgstr ""
+
+#: core/um-builtin.php:1386
+msgid "Belgium"
+msgstr ""
+
+#: core/um-builtin.php:1387
+msgid "Belize"
+msgstr ""
+
+#: core/um-builtin.php:1388
+msgid "Benin"
+msgstr ""
+
+#: core/um-builtin.php:1389
+msgid "Bermuda"
+msgstr ""
+
+#: core/um-builtin.php:1390
+msgid "Bhutan"
+msgstr ""
+
+#: core/um-builtin.php:1391
+msgid "Bolivia, Plurinational State of"
+msgstr ""
+
+#: core/um-builtin.php:1392
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: core/um-builtin.php:1393
+msgid "Botswana"
+msgstr ""
+
+#: core/um-builtin.php:1394
+msgid "Bouvet Island"
+msgstr ""
+
+#: core/um-builtin.php:1395
+msgid "Brazil"
+msgstr ""
+
+#: core/um-builtin.php:1396
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: core/um-builtin.php:1397
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: core/um-builtin.php:1398
+msgid "Bulgaria"
+msgstr ""
+
+#: core/um-builtin.php:1399
+msgid "Burkina Faso"
+msgstr ""
+
+#: core/um-builtin.php:1400
+msgid "Burundi"
+msgstr ""
+
+#: core/um-builtin.php:1401
+msgid "Cambodia"
+msgstr ""
+
+#: core/um-builtin.php:1402
+msgid "Cameroon"
+msgstr ""
+
+#: core/um-builtin.php:1403
+msgid "Canada"
+msgstr ""
+
+#: core/um-builtin.php:1404
+msgid "Cape Verde"
+msgstr ""
+
+#: core/um-builtin.php:1405
+msgid "Cayman Islands"
+msgstr ""
+
+#: core/um-builtin.php:1406
+msgid "Central African Republic"
+msgstr ""
+
+#: core/um-builtin.php:1407
+msgid "Chad"
+msgstr ""
+
+#: core/um-builtin.php:1408
+msgid "Chile"
+msgstr ""
+
+#: core/um-builtin.php:1409
+msgid "China"
+msgstr ""
+
+#: core/um-builtin.php:1410
+msgid "Christmas Island"
+msgstr ""
+
+#: core/um-builtin.php:1411
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: core/um-builtin.php:1412
+msgid "Colombia"
+msgstr ""
+
+#: core/um-builtin.php:1413
+msgid "Comoros"
+msgstr ""
+
+#: core/um-builtin.php:1414
+msgid "Congo"
+msgstr ""
+
+#: core/um-builtin.php:1415
+msgid "Congo, the Democratic Republic of the"
+msgstr ""
+
+#: core/um-builtin.php:1416
+msgid "Cook Islands"
+msgstr ""
+
+#: core/um-builtin.php:1417
+msgid "Costa Rica"
+msgstr ""
+
+#: core/um-builtin.php:1418
+msgid "Côte d'Ivoire"
+msgstr ""
+
+#: core/um-builtin.php:1419
+msgid "Croatia"
+msgstr ""
+
+#: core/um-builtin.php:1420
+msgid "Cuba"
+msgstr ""
+
+#: core/um-builtin.php:1421
+msgid "Cyprus"
+msgstr ""
+
+#: core/um-builtin.php:1422
+msgid "Czech Republic"
+msgstr ""
+
+#: core/um-builtin.php:1423
+msgid "Denmark"
+msgstr ""
+
+#: core/um-builtin.php:1424
+msgid "Djibouti"
+msgstr ""
+
+#: core/um-builtin.php:1425
+msgid "Dominica"
+msgstr ""
+
+#: core/um-builtin.php:1426
+msgid "Dominican Republic"
+msgstr ""
+
+#: core/um-builtin.php:1427
+msgid "Ecuador"
+msgstr ""
+
+#: core/um-builtin.php:1428
+msgid "Egypt"
+msgstr ""
+
+#: core/um-builtin.php:1429
+msgid "El Salvador"
+msgstr ""
+
+#: core/um-builtin.php:1430
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: core/um-builtin.php:1431
+msgid "Eritrea"
+msgstr ""
+
+#: core/um-builtin.php:1432
+msgid "Estonia"
+msgstr ""
+
+#: core/um-builtin.php:1433
+msgid "Ethiopia"
+msgstr ""
+
+#: core/um-builtin.php:1434
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: core/um-builtin.php:1435
+msgid "Faroe Islands"
+msgstr ""
+
+#: core/um-builtin.php:1436
+msgid "Fiji"
+msgstr ""
+
+#: core/um-builtin.php:1437
+msgid "Finland"
+msgstr ""
+
+#: core/um-builtin.php:1438
+msgid "France"
+msgstr ""
+
+#: core/um-builtin.php:1439
+msgid "French Guiana"
+msgstr ""
+
+#: core/um-builtin.php:1440
+msgid "French Polynesia"
+msgstr ""
+
+#: core/um-builtin.php:1441
+msgid "French Southern Territories"
+msgstr ""
+
+#: core/um-builtin.php:1442
+msgid "Gabon"
+msgstr ""
+
+#: core/um-builtin.php:1443
+msgid "Gambia"
+msgstr ""
+
+#: core/um-builtin.php:1444
+msgid "Georgia"
+msgstr ""
+
+#: core/um-builtin.php:1445
+msgid "Germany"
+msgstr ""
+
+#: core/um-builtin.php:1446
+msgid "Ghana"
+msgstr ""
+
+#: core/um-builtin.php:1447
+msgid "Gibraltar"
+msgstr ""
+
+#: core/um-builtin.php:1448
+msgid "Greece"
+msgstr ""
+
+#: core/um-builtin.php:1449
+msgid "Greenland"
+msgstr ""
+
+#: core/um-builtin.php:1450
+msgid "Grenada"
+msgstr ""
+
+#: core/um-builtin.php:1451
+msgid "Guadeloupe"
+msgstr ""
+
+#: core/um-builtin.php:1452
+msgid "Guam"
+msgstr ""
+
+#: core/um-builtin.php:1453
+msgid "Guatemala"
+msgstr ""
+
+#: core/um-builtin.php:1454
+msgid "Guernsey"
+msgstr ""
+
+#: core/um-builtin.php:1455
+msgid "Guinea"
+msgstr ""
+
+#: core/um-builtin.php:1456
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: core/um-builtin.php:1457
+msgid "Guyana"
+msgstr ""
+
+#: core/um-builtin.php:1458
+msgid "Haiti"
+msgstr ""
+
+#: core/um-builtin.php:1459
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: core/um-builtin.php:1460
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: core/um-builtin.php:1461
+msgid "Honduras"
+msgstr ""
+
+#: core/um-builtin.php:1462
+msgid "Hong Kong"
+msgstr ""
+
+#: core/um-builtin.php:1463
+msgid "Hungary"
+msgstr ""
+
+#: core/um-builtin.php:1464
+msgid "Iceland"
+msgstr ""
+
+#: core/um-builtin.php:1465
+msgid "India"
+msgstr ""
+
+#: core/um-builtin.php:1466
+msgid "Indonesia"
+msgstr ""
+
+#: core/um-builtin.php:1467
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+#: core/um-builtin.php:1468
+msgid "Iraq"
+msgstr ""
+
+#: core/um-builtin.php:1469
+msgid "Ireland"
+msgstr ""
+
+#: core/um-builtin.php:1470
+msgid "Isle of Man"
+msgstr ""
+
+#: core/um-builtin.php:1471
+msgid "Israel"
+msgstr ""
+
+#: core/um-builtin.php:1472
+msgid "Italy"
+msgstr ""
+
+#: core/um-builtin.php:1473
+msgid "Jamaica"
+msgstr ""
+
+#: core/um-builtin.php:1474
+msgid "Japan"
+msgstr "日本"
+
+#: core/um-builtin.php:1475
+msgid "Jersey"
+msgstr ""
+
+#: core/um-builtin.php:1476
+msgid "Jordan"
+msgstr ""
+
+#: core/um-builtin.php:1477
+msgid "Kazakhstan"
+msgstr ""
+
+#: core/um-builtin.php:1478
+msgid "Kenya"
+msgstr ""
+
+#: core/um-builtin.php:1479
+msgid "Kiribati"
+msgstr ""
+
+#: core/um-builtin.php:1480
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+#: core/um-builtin.php:1481
+msgid "Korea, Republic of"
+msgstr ""
+
+#: core/um-builtin.php:1482
+msgid "Kuwait"
+msgstr ""
+
+#: core/um-builtin.php:1483
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: core/um-builtin.php:1484
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: core/um-builtin.php:1485
+msgid "Latvia"
+msgstr ""
+
+#: core/um-builtin.php:1486
+msgid "Lebanon"
+msgstr ""
+
+#: core/um-builtin.php:1487
+msgid "Lesotho"
+msgstr ""
+
+#: core/um-builtin.php:1488
+msgid "Liberia"
+msgstr ""
+
+#: core/um-builtin.php:1489
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: core/um-builtin.php:1490
+msgid "Liechtenstein"
+msgstr ""
+
+#: core/um-builtin.php:1491
+msgid "Lithuania"
+msgstr ""
+
+#: core/um-builtin.php:1492
+msgid "Luxembourg"
+msgstr ""
+
+#: core/um-builtin.php:1493
+msgid "Macao"
+msgstr ""
+
+#: core/um-builtin.php:1494
+msgid "Macedonia, the former Yugoslav Republic of"
+msgstr ""
+
+#: core/um-builtin.php:1495
+msgid "Madagascar"
+msgstr ""
+
+#: core/um-builtin.php:1496
+msgid "Malawi"
+msgstr ""
+
+#: core/um-builtin.php:1497
+msgid "Malaysia"
+msgstr ""
+
+#: core/um-builtin.php:1498
+msgid "Maldives"
+msgstr ""
+
+#: core/um-builtin.php:1499
+msgid "Mali"
+msgstr ""
+
+#: core/um-builtin.php:1500
+msgid "Malta"
+msgstr ""
+
+#: core/um-builtin.php:1501
+msgid "Marshall Islands"
+msgstr ""
+
+#: core/um-builtin.php:1502
+msgid "Martinique"
+msgstr ""
+
+#: core/um-builtin.php:1503
+msgid "Mauritania"
+msgstr ""
+
+#: core/um-builtin.php:1504
+msgid "Mauritius"
+msgstr ""
+
+#: core/um-builtin.php:1505
+msgid "Mayotte"
+msgstr ""
+
+#: core/um-builtin.php:1506
+msgid "Mexico"
+msgstr ""
+
+#: core/um-builtin.php:1507
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+#: core/um-builtin.php:1508
+msgid "Moldova, Republic of"
+msgstr ""
+
+#: core/um-builtin.php:1509
+msgid "Monaco"
+msgstr ""
+
+#: core/um-builtin.php:1510
+msgid "Mongolia"
+msgstr ""
+
+#: core/um-builtin.php:1511
+msgid "Montenegro"
+msgstr ""
+
+#: core/um-builtin.php:1512
+msgid "Montserrat"
+msgstr ""
+
+#: core/um-builtin.php:1513
+msgid "Morocco"
+msgstr ""
+
+#: core/um-builtin.php:1514
+msgid "Mozambique"
+msgstr ""
+
+#: core/um-builtin.php:1515
+msgid "Myanmar"
+msgstr ""
+
+#: core/um-builtin.php:1516
+msgid "Namibia"
+msgstr ""
+
+#: core/um-builtin.php:1518
+msgid "Nepal"
+msgstr ""
+
+#: core/um-builtin.php:1519
+msgid "Netherlands"
+msgstr ""
+
+#: core/um-builtin.php:1520
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: core/um-builtin.php:1521
+msgid "New Caledonia"
+msgstr ""
+
+#: core/um-builtin.php:1522
+msgid "New Zealand"
+msgstr ""
+
+#: core/um-builtin.php:1523
+msgid "Nicaragua"
+msgstr ""
+
+#: core/um-builtin.php:1524
+msgid "Niger"
+msgstr ""
+
+#: core/um-builtin.php:1525
+msgid "Nigeria"
+msgstr ""
+
+#: core/um-builtin.php:1526
+msgid "Niue"
+msgstr ""
+
+#: core/um-builtin.php:1527
+msgid "Norfolk Island"
+msgstr ""
+
+#: core/um-builtin.php:1528
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: core/um-builtin.php:1529
+msgid "Norway"
+msgstr ""
+
+#: core/um-builtin.php:1530
+msgid "Oman"
+msgstr ""
+
+#: core/um-builtin.php:1531
+msgid "Pakistan"
+msgstr ""
+
+#: core/um-builtin.php:1532
+msgid "Palau"
+msgstr ""
+
+#: core/um-builtin.php:1533
+msgid "Palestine"
+msgstr ""
+
+#: core/um-builtin.php:1534
+msgid "Panama"
+msgstr ""
+
+#: core/um-builtin.php:1535
+msgid "Papua New Guinea"
+msgstr ""
+
+#: core/um-builtin.php:1536
+msgid "Paraguay"
+msgstr ""
+
+#: core/um-builtin.php:1537
+msgid "Peru"
+msgstr ""
+
+#: core/um-builtin.php:1538
+msgid "Philippines"
+msgstr ""
+
+#: core/um-builtin.php:1539
+msgid "Pitcairn"
+msgstr ""
+
+#: core/um-builtin.php:1540
+msgid "Poland"
+msgstr ""
+
+#: core/um-builtin.php:1541
+msgid "Portugal"
+msgstr ""
+
+#: core/um-builtin.php:1542
+msgid "Puerto Rico"
+msgstr ""
+
+#: core/um-builtin.php:1543
+msgid "Qatar"
+msgstr ""
+
+#: core/um-builtin.php:1544
+msgid "Réunion"
+msgstr ""
+
+#: core/um-builtin.php:1545
+msgid "Romania"
+msgstr ""
+
+#: core/um-builtin.php:1546
+msgid "Russian Federation"
+msgstr ""
+
+#: core/um-builtin.php:1547
+msgid "Rwanda"
+msgstr ""
+
+#: core/um-builtin.php:1548
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: core/um-builtin.php:1549
+msgid "Saint Helena"
+msgstr ""
+
+#: core/um-builtin.php:1550
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: core/um-builtin.php:1551
+msgid "Saint Lucia"
+msgstr ""
+
+#: core/um-builtin.php:1552
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: core/um-builtin.php:1553
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: core/um-builtin.php:1554
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: core/um-builtin.php:1555
+msgid "Samoa"
+msgstr ""
+
+#: core/um-builtin.php:1556
+msgid "San Marino"
+msgstr ""
+
+#: core/um-builtin.php:1557
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: core/um-builtin.php:1558
+msgid "Saudi Arabia"
+msgstr ""
+
+#: core/um-builtin.php:1559
+msgid "Senegal"
+msgstr ""
+
+#: core/um-builtin.php:1560
+msgid "Serbia"
+msgstr ""
+
+#: core/um-builtin.php:1561
+msgid "Seychelles"
+msgstr ""
+
+#: core/um-builtin.php:1562
+msgid "Sierra Leone"
+msgstr ""
+
+#: core/um-builtin.php:1563
+msgid "Singapore"
+msgstr ""
+
+#: core/um-builtin.php:1564
+msgid "Slovakia"
+msgstr ""
+
+#: core/um-builtin.php:1565
+msgid "Slovenia"
+msgstr ""
+
+#: core/um-builtin.php:1566
+msgid "Solomon Islands"
+msgstr ""
+
+#: core/um-builtin.php:1567
+msgid "Somalia"
+msgstr ""
+
+#: core/um-builtin.php:1568
+msgid "South Africa"
+msgstr ""
+
+#: core/um-builtin.php:1569
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: core/um-builtin.php:1570
+msgid "South Sudan"
+msgstr ""
+
+#: core/um-builtin.php:1571
+msgid "Spain"
+msgstr ""
+
+#: core/um-builtin.php:1572
+msgid "Sri Lanka"
+msgstr ""
+
+#: core/um-builtin.php:1573
+msgid "Sudan"
+msgstr ""
+
+#: core/um-builtin.php:1574
+msgid "Suriname"
+msgstr ""
+
+#: core/um-builtin.php:1575
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: core/um-builtin.php:1576
+msgid "Swaziland"
+msgstr ""
+
+#: core/um-builtin.php:1577
+msgid "Sweden"
+msgstr ""
+
+#: core/um-builtin.php:1578
+msgid "Switzerland"
+msgstr ""
+
+#: core/um-builtin.php:1579
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: core/um-builtin.php:1580
+msgid "Taiwan, Province of China"
+msgstr ""
+
+#: core/um-builtin.php:1581
+msgid "Tajikistan"
+msgstr ""
+
+#: core/um-builtin.php:1582
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: core/um-builtin.php:1583
+msgid "Thailand"
+msgstr ""
+
+#: core/um-builtin.php:1584
+msgid "Timor-Leste"
+msgstr ""
+
+#: core/um-builtin.php:1585
+msgid "Togo"
+msgstr ""
+
+#: core/um-builtin.php:1586
+msgid "Tokelau"
+msgstr ""
+
+#: core/um-builtin.php:1588
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: core/um-builtin.php:1589
+msgid "Tunisia"
+msgstr ""
+
+#: core/um-builtin.php:1590
+msgid "Turkey"
+msgstr ""
+
+#: core/um-builtin.php:1591
+msgid "Turkmenistan"
+msgstr ""
+
+#: core/um-builtin.php:1592
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: core/um-builtin.php:1593
+msgid "Tuvalu"
+msgstr ""
+
+#: core/um-builtin.php:1594
+msgid "Uganda"
+msgstr ""
+
+#: core/um-builtin.php:1595
+msgid "Ukraine"
+msgstr ""
+
+#: core/um-builtin.php:1596
+msgid "United Arab Emirates"
+msgstr ""
+
+#: core/um-builtin.php:1597
+msgid "United Kingdom"
+msgstr ""
+
+#: core/um-builtin.php:1598
+msgid "United States"
+msgstr ""
+
+#: core/um-builtin.php:1599
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: core/um-builtin.php:1600
+msgid "Uruguay"
+msgstr ""
+
+#: core/um-builtin.php:1601
+msgid "Uzbekistan"
+msgstr ""
+
+#: core/um-builtin.php:1602
+msgid "Vanuatu"
+msgstr ""
+
+#: core/um-builtin.php:1603
+msgid "Venezuela, Bolivarian Republic of"
+msgstr ""
+
+#: core/um-builtin.php:1604
+msgid "Viet Nam"
+msgstr ""
+
+#: core/um-builtin.php:1605
+msgid "Virgin Islands, British"
+msgstr ""
+
+#: core/um-builtin.php:1606
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+#: core/um-builtin.php:1607
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: core/um-builtin.php:1608
+msgid "Western Sahara"
+msgstr ""
+
+#: core/um-builtin.php:1609
+msgid "Yemen"
+msgstr ""
+
+#: core/um-builtin.php:1610
+msgid "Zambia"
+msgstr ""
+
+#: core/um-builtin.php:1611
+msgid "Zimbabwe"
+msgstr ""
+
+#: core/um-cron.php:15
+msgid "Once Weekly"
+msgstr "週に1回"
+
+#: core/um-datetime.php:26
+msgid "just now"
+msgstr "たった今"
+
+#: core/um-datetime.php:34
+#, php-format
+msgid "%s min"
+msgstr "%s分"
+
+#: core/um-datetime.php:36
+#, php-format
+msgid "%s mins"
+msgstr "%s分"
+
+#: core/um-datetime.php:45
+#, php-format
+msgid "%s hr"
+msgstr "%s時間"
+
+#: core/um-datetime.php:47
+#, php-format
+msgid "%s hrs"
+msgstr "%s時間"
+
+#: core/um-datetime.php:56
+#, php-format
+msgid "Yesterday at %s"
+msgstr "昨日の%s"
+
+#: core/um-datetime.php:58 core/um-datetime.php:63 core/um-datetime.php:67
+#: core/um-datetime.php:71
+#, php-format
+msgid "%s at %s"
+msgstr ""
+
+#: core/um-datetime.php:88
+#, php-format
+msgid "%s year old"
+msgstr "%s年"
+
+#: core/um-datetime.php:90
+#, php-format
+msgid "%s years old"
+msgstr "%s年"
+
+#: core/um-datetime.php:92
+msgid "Less than 1 year old"
+msgstr "1年未満"
+
+#: core/um-fields.php:745
+msgid "Custom Field"
+msgstr "カスタムフィールド"
+
+#: core/um-fields.php:1020
+msgid "Please upload a valid image!"
+msgstr "有効な画像をアップロードしてください!"
+
+#: core/um-fields.php:1027 core/um-fields.php:1048
+msgid "Upload"
+msgstr "アップロード"
+
+#: core/um-fields.php:1028
+msgid "Sorry this is not a valid image."
+msgstr "申し訳ありませんが、これは有効な画像ではありません。"
+
+#: core/um-fields.php:1029
+msgid "This image is too large!"
+msgstr "この画像は大きすぎます!"
+
+#: core/um-fields.php:1030
+msgid "This image is too small!"
+msgstr "この画像は小さすぎます!"
+
+#: core/um-fields.php:1031
+msgid "You can only upload one image"
+msgstr "1枚の画像しかアップロードできません"
+
+#: core/um-fields.php:1314
+msgid "Current Password"
+msgstr "現在のパスワード"
+
+#: core/um-fields.php:1343
+msgid "New Password"
+msgstr "新しいパスワード"
+
+#: core/um-fields.php:1375
+#, php-format
+msgid "Confirm %s"
+msgstr "%sの確認"
+
+#: core/um-fields.php:1597 core/um-fields.php:1681
+msgid "Upload Photo"
+msgstr "写真をアップロード"
+
+#: core/um-fields.php:1651 core/um-fields.php:1739
+msgid "Processing..."
+msgstr "処理中..."
+
+#: core/um-fields.php:1697 core/um-fields.php:1739
+msgid "Change file"
+msgstr "ファイルを変更"
+
+#: core/um-fields.php:1739
+msgid "Save"
+msgstr "保存"
+
+#: core/um-fields.php:2623
+#, php-format
+msgid ""
+"Your profile is looking a little empty. Why not <a href=\"%s\">add</a> some "
+"information!"
+msgstr ""
+"あなたのプロフィールはまだと空っぽです。 情報を<a href=\"%s\">追加</a>しませ"
+"んか?"
+
+#: core/um-fields.php:2625
+msgid "This user has not added any information to their profile yet."
+msgstr "このユーザーは、まだプロフィールに情報を追加していません。"
+
+#: core/um-files.php:377
+msgid "This media type is not recognized."
+msgstr "このメディアタイプは認識されません。"
+
+#: core/um-files.php:385
+msgid "Your image is invalid or too large!"
+msgstr "画像が無効、または大きすぎます!"
+
+#: core/um-files.php:391 core/um-files.php:393
+#, php-format
+msgid "Your photo is too small. It must be at least %spx wide."
+msgstr "写真が小さすぎます。%spx幅以上でなければなりません。"
+
+#: core/um-files.php:445
+msgid "Ultimate Member: Not a valid temp file"
+msgstr "Ultimate Member: 有効な一時ファイルではありません"
+
+#: core/um-files.php:540 core/um-files.php:546
+msgid "Unauthorized to do this attempt."
+msgstr "この行為を行う権限がありません。"
+
+#: core/um-filters-addons.php:16
+msgid "Activated"
+msgstr "有効化"
+
+#: core/um-filters-addons.php:17
+msgid "Deactivated"
+msgstr "無効化"
+
+#: core/um-filters-addons.php:33
+msgid "Tools"
+msgstr "ツール"
+
+#: core/um-filters-addons.php:57
+msgid "Licenses"
+msgstr "ライセンス"
+
+#: core/um-filters-fields.php:11
+msgid "Required"
+msgstr "必須"
+
+#: core/um-filters-fields.php:23
+msgid "Invalid soundcloud track ID"
+msgstr "soundcloud track IDが無効です"
+
+#: core/um-filters-fields.php:82
+#, php-format
+msgid "Joined %s"
+msgstr "%sに参加しました。"
+
+#: core/um-filters-fields.php:93
+#, php-format
+msgid "Last login: %s"
+msgstr "前回のログインから: %s"
+
+#: core/um-filters-fields.php:156
+msgid "This file has been removed."
+msgstr "このファイルは削除されました。"
+
+#: core/um-filters-fields.php:177
+msgid "Untitled photo"
+msgstr "無題の写真"
+
+#: core/um-filters-profile.php:10
+msgid "About"
+msgstr "投稿者の紹介"
+
+#: core/um-filters-profile.php:77 core/um-filters-profile.php:95
+msgid "max"
+msgstr "最大"
+
+#: core/um-filters-user.php:11 core/um-filters-user.php:35
+#: core/um-filters-user.php:40
+msgid "Approve Membership"
+msgstr "メンバーとして承認"
+
+#: core/um-filters-user.php:12 core/um-filters-user.php:36
+msgid "Reject Membership"
+msgstr "メンバーとして拒否"
+
+#: core/um-filters-user.php:13 core/um-filters-user.php:44
+msgid "Put as Pending Review"
+msgstr "承認待ちにする"
+
+#: core/um-filters-user.php:14 core/um-filters-user.php:48
+msgid "Resend Activation E-mail"
+msgstr "有効化メールを再送信"
+
+#: core/um-filters-user.php:15
+msgid "Deactivate"
+msgstr "無効化"
+
+#: core/um-filters-user.php:16
+msgid "Reactivate"
+msgstr "最有効化"
+
+#: core/um-filters-user.php:52
+msgid "Deactivate this account"
+msgstr "このアカウントを無効化"
+
+#: core/um-filters-user.php:56
+msgid "Reactivate this account"
+msgstr "このアカウントを再有効化"
+
+#: core/um-filters-user.php:60
+msgid "Delete this user"
+msgstr "このユーザーを削除"
+
+#: core/um-filters-user.php:66
+msgid "Login as this user"
+msgstr "このユーザーとしてログイン"
+
+#: core/um-navmenu-walker-edit.php:18
+msgid "Display Mode"
+msgstr "表示モード"
+
+#: core/um-navmenu-walker-edit.php:19
+msgid "By Role"
+msgstr ""
+
+#: core/um-navmenu-walker-edit.php:94
+msgid "Who can see this menu link?"
+msgstr "このメニューリンクは誰が見ることができますか?"
+
+#: core/um-navmenu-walker-edit.php:114
+msgid "Select the member roles that can see this link"
+msgstr "このリンクを表示できるメンバーの権限グループを選択してください"
+
+#: core/um-password.php:33
+msgid "This is not a valid hash, or it has expired."
+msgstr "有効なハッシュではない、または期限切れです。"
+
+#: core/um-permalinks.php:172
+msgid "This activation link is expired or have already been used."
+msgstr "この有効化リンクは期限切れになっているか、すでに使用されています。"
+
+#: core/um-setup.php:137 core/um-setup.php:158
+msgid "Register"
+msgstr "新規登録"
+
+#: core/um-setup.php:142 core/um-setup.php:151
+msgid "Login"
+msgstr "ログイン"
+
+#: core/um-short-functions.php:424
+msgid "date submitted"
+msgstr "提出された日付"
+
+#: core/um-short-functions.php:429
+msgid "(empty)"
+msgstr "(空)"
+
+#: core/um-shortcodes.php:201
+msgid ""
+"This content has been restricted to logged in users only. Please <a href="
+"\"{login_referrer}\">login</a> to view this content."
+msgstr ""
+"このコンテンツはログインユーザーのみに制限されています。表示するには<a href="
+"\"{login_referrer}\">ログイン</a>してください。"
+
+#: core/um-shortcodes.php:410
+msgid "Default Template"
+msgstr "デフォルトテンプレート"
+
+#: core/um-taxonomies.php:19
+msgid "Form"
+msgstr "フォーム"
+
+#: core/um-taxonomies.php:20 core/um-taxonomies.php:38
+#: core/um-taxonomies.php:58
+msgid "Add New"
+msgstr "新規追加"
+
+#: core/um-taxonomies.php:21
+msgid "Add New Form"
+msgstr "新しいフォームを追加"
+
+#: core/um-taxonomies.php:22
+msgid "Edit Form"
+msgstr "フォームを編集"
+
+#: core/um-taxonomies.php:23
+msgid "You did not create any forms yet"
+msgstr "まだフォームを作成していません"
+
+#: core/um-taxonomies.php:24 core/um-taxonomies.php:42
+#: core/um-taxonomies.php:62
+msgid "Nothing found in Trash"
+msgstr "ごみ箱には何も見つかりません"
+
+#: core/um-taxonomies.php:25
+msgid "Search Forms"
+msgstr "フォームを検索"
+
+#: core/um-taxonomies.php:37
+msgid "User Role"
+msgstr "ユーザー権限グループ"
+
+#: core/um-taxonomies.php:39
+msgid "Add New User Role"
+msgstr "新しいユーザー権限グループを追加"
+
+#: core/um-taxonomies.php:40
+msgid "Edit User Role"
+msgstr "ユーザー権限グループを編集"
+
+#: core/um-taxonomies.php:41
+msgid "You did not create any user roles yet"
+msgstr "まだユーザー権限グループを作成していません"
+
+#: core/um-taxonomies.php:43
+msgid "Search User Roles"
+msgstr "ユーザー権限グループを検索"
+
+#: core/um-taxonomies.php:57
+msgid "Member Directory"
+msgstr "メンバーディレクトリ"
+
+#: core/um-taxonomies.php:59
+msgid "Add New Member Directory"
+msgstr "新しいメンバーディレクトリを追加"
+
+#: core/um-taxonomies.php:60
+msgid "Edit Member Directory"
+msgstr "メンバーディレクトリを編集"
+
+#: core/um-taxonomies.php:61
+msgid "You did not create any member directories yet"
+msgstr "まだメンバーディレクトリを作成していません"
+
+#: core/um-taxonomies.php:63
+msgid "Search Member Directories"
+msgstr "メンバーディレクトリを検索"
+
+#: core/um-tracking.php:147
+#, php-format
+msgid ""
+"Allow Ultimate Member to track plugin usage? Opt-in to tracking and our "
+"newsletter and we will immediately e-mail you a 20% discount which you can "
+"use to purchase our core extensions bundle. No sensitive data is tracked."
+msgstr ""
+
+#: core/um-tracking.php:151
+msgid "Allow tracking"
+msgstr "トラッキングを許可する"
+
+#: core/um-tracking.php:152
+msgid "Do not allow tracking"
+msgstr "トラッキングを許可しない"
+
+#: core/um-user-posts.php:67
+msgid "Posts"
+msgstr "投稿"
+
+#: core/um-user-posts.php:72
+msgid "Comments"
+msgstr "コメント"
+
+#: core/um-user.php:76
+msgid "Assign or change the community role for this user"
+msgstr "このユーザーのコミュニティ権限グループを割り当て、または変更"
+
+#: core/um-user.php:249
+msgid "Membership Rejected"
+msgstr "メンバーとして拒否済み"
+
+#: core/um-user.php:253
+msgid "Membership Inactive"
+msgstr "メンバーとして無効"
+
+#: core/widgets/um-search-widget.php:13
+msgid "Ultimate Member - Search"
+msgstr "Ultimate Member - 検索"
+
+#: core/widgets/um-search-widget.php:16
+msgid "Shows users they follow in a widget."
+msgstr "ウィジェットで関心を持つユーザーを表示します。"
+
+#: core/widgets/um-search-widget.php:44
+msgid "Search Users"
+msgstr "ユーザーを検索"
+
+#: core/widgets/um-search-widget.php:57
+msgid "Title:"
+msgstr "タイトル:"
+
+#: index.php:58
+msgid "Remove this plugin"
+msgstr "このプラグインを削除する"
+
+#: index.php:58
+msgid "Uninstall"
+msgstr "アンインストール"
+
+#: templates/password-reset.php:21
+msgid ""
+"We have sent you a password reset link to your e-mail. Please check your "
+"inbox."
+msgstr ""
+"あなたのEメールへのパスワードリセットリンクが送信されました。 受信箱をチェッ"
+"クしてください。"
+
+#: templates/profile/comments-single.php:6
+#, php-format
+msgid "On <a href=\"%1$s\">%2$s</a>"
+msgstr "<a href=\"%1$s\">%2$s</a> にて"
+
+#: templates/profile/comments-single.php:15 templates/profile/comments.php:14
+msgid "load more comments"
+msgstr "コメントをもっと読み込む"
+
+#: templates/profile/comments.php:23
+msgid "You have not made any comments."
+msgstr "まだコメントをしていません。"
+
+#: templates/profile/comments.php:23
+msgid "This user has not made any comments."
+msgstr "このユーザーはコメントしていません。"
+
+#: templates/profile/posts-single.php:16
+#, php-format
+msgid "%s ago"
+msgstr "%s 前"
+
+#: templates/profile/posts-single.php:17
+msgid "in"
+msgstr "カテゴリー"
+
+#: templates/profile/posts-single.php:18
+msgid "no comments"
+msgstr "0 コメント"
+
+#: templates/profile/posts-single.php:18
+msgid "1 comment"
+msgstr "1 コメント"
+
+#: templates/profile/posts-single.php:18
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: templates/profile/posts-single.php:27 templates/profile/posts.php:16
+msgid "load more posts"
+msgstr "投稿をもっと読み込む"
+
+#: templates/profile/posts.php:25
+msgid "You have not created any posts."
+msgstr "まだ投稿がありません。"
+
+#: templates/profile/posts.php:25
+msgid "This user has not created any posts."
+msgstr "このユーザーは投稿を作成していません。"
+
+#: um-config.php:11 um-config.php:68
+msgid "User page"
+msgstr "ユーザーページ"
+
+#: um-config.php:12 um-config.php:69
+msgid "Account page"
+msgstr "アカウントページ"
+
+#: um-config.php:13 um-config.php:70
+msgid "Members page"
+msgstr "メンバーページ"
+
+#: um-config.php:14 um-config.php:71
+msgid "Register page"
+msgstr "新規登録ページ"
+
+#: um-config.php:15 um-config.php:72
+msgid "Login page"
+msgstr "ログインページ"
+
+#: um-config.php:16 um-config.php:73
+msgid "Logout page"
+msgstr "ログアウトページ"
+
+#: um-config.php:17 um-config.php:74
+msgid "Password reset page"
+msgstr "パスワードリセットページ"
+
+#: um-config.php:34
+msgid "Add page ID"
+msgstr "ページIDを追加"
+
+#: um-config.php:46
+msgid "Choose a page..."
+msgstr "ページを選択..."
+
+#: um-config.php:56
+msgid "Setup"
+msgstr "設定"
+
+#: um-config.php:100
+msgid "Default New User Role"
+msgstr "デフォルトの新規ユーザー権限グループ"
+
+#: um-config.php:101
+msgid ""
+"Select the default role that will be assigned to user after registration If "
+"you did not specify custom role settings per form."
+msgstr ""
+"フォームごとにカスタム権限グループを指定しなかった場合、登録後にユーザーに割"
+"り当てるデフォルトの権限グループを選択します。"
+
+#: um-config.php:104
+msgid "Choose user role..."
+msgstr "ユーザー権限グループを選択..."
+
+#: um-config.php:111
+msgid "Profile Permalink Base"
+msgstr "プロフィールのパーマリンクベース"
+
+#: um-config.php:112
+msgid ""
+"Here you can control the permalink structure of the user profile URL globally"
+msgstr "ユーザープロフィールURLのパーマリンク構造を共通でコントロールできます"
+
+#: um-config.php:117
+msgid "First and Last Name with '.'"
+msgstr "名.姓"
+
+#: um-config.php:118
+msgid "First and Last Name with '-'"
+msgstr "名-姓"
+
+#: um-config.php:119
+msgid "First and Last Name with '+'"
+msgstr "名+姓"
+
+#: um-config.php:120
+msgid "User ID"
+msgstr "ユーザーID"
+
+#: um-config.php:122 um-config.php:143
+msgid "Select..."
+msgstr "選択... "
+
+#: um-config.php:129
+msgid "User Display Name"
+msgstr "ユーザー表示名"
+
+#: um-config.php:130
+msgid ""
+"This is the name that will be displayed for users on the front end of your "
+"site. Default setting uses first/last name as display name if it exists"
+msgstr ""
+"サイトのフロントエンドのユーザーに表示される名前です。 デフォルト設定では、表"
+"示名として姓/名が存在する場合はそれを使用します"
+
+#: um-config.php:133
+msgid "Default WP Display Name"
+msgstr "WPデフォルトの表示名"
+
+#: um-config.php:136
+msgid "First name & last name"
+msgstr "名＆姓"
+
+#: um-config.php:137
+msgid "Last name & first name"
+msgstr "姓＆名"
+
+#: um-config.php:138
+msgid "First name & first initial of last name"
+msgstr "名＆姓のイニシャル"
+
+#: um-config.php:139
+msgid "First initial of first name & last name"
+msgstr "名のイニシャル＆姓"
+
+#: um-config.php:140
+msgid "First name only"
+msgstr "名のみ"
+
+#: um-config.php:141
+msgid "Custom field(s)"
+msgstr "カスタムフィールド"
+
+#: um-config.php:149
+msgid "Display Name Custom Field(s)"
+msgstr "表示名のカスタムフィールド"
+
+#: um-config.php:150
+msgid ""
+"Specify the custom field meta key or custom fields seperated by comma that "
+"you want to use to display users name on the frontend of your site"
+msgstr ""
+"サイトのフロントエンドにユーザー名を表示するために、カンマで区切ったカスタム"
+"フィールドのメタキーまたはカスタムフィールドを指定する"
+
+#: um-config.php:157
+msgid "Force display name to be capitalized?"
+msgstr "強制的に表示名を大文字にしますか?"
+
+#: um-config.php:166
+msgid "Automatically redirect author page to their profile?"
+msgstr "投稿者ページからプロフィールへ自動的にリダイレクトしますか?"
+
+#: um-config.php:168
+msgid ""
+"If enabled, author pages will automatically redirect to the user's profile "
+"page"
+msgstr ""
+"有効にすると、投稿者ページから自動的にユーザーのプロフィールページへリダイレ"
+"クトされます"
+
+#: um-config.php:176
+msgid "Enable Members Directory"
+msgstr "メンバーディレクトリを有効にする"
+
+#: um-config.php:178
+msgid "Control whether to enable or disable member directories on this site"
+msgstr "サイトのメンバーディレクトリを有効・は無効をコントロールする"
+
+#: um-config.php:186
+msgid "Use Gravatars?"
+msgstr "Gravatar を使用しますか?"
+
+#: um-config.php:188
+msgid ""
+"Do you want to use gravatars instead of the default plugin profile photo (If "
+"the user did not upload a custom profile photo / avatar)"
+msgstr ""
+"デフォルトのプラグインプロフィール写真の代わりに gravitars を使用しますか "
+"(ユーザーがカスタムプロフィール写真/アバターをアップロードしていない場合)"
+
+#: um-config.php:196
+msgid "Use Gravatar builtin image"
+msgstr "Gravatarで用意されている画像を使う"
+
+#: um-config.php:197
+msgid ""
+"Gravatar has a number of built in options which you can also use as defaults"
+msgstr "Gravatarにはデフォルトで使える用意されたオプションがあります"
+
+#: um-config.php:201
+msgid "404 ( File Not Found response )"
+msgstr "404 ( ファイルが見つかりませんでした )"
+
+#: um-config.php:202
+msgid "Mystery Man"
+msgstr "ミステリーマン"
+
+#: um-config.php:203
+msgid "Identicon"
+msgstr "アイデンティティ"
+
+#: um-config.php:204
+msgid "Monsterid"
+msgstr "モンスター"
+
+#: um-config.php:205
+msgid "Wavatar"
+msgstr "ウィバター"
+
+#: um-config.php:206
+msgid "Retro"
+msgstr "レトロ"
+
+#: um-config.php:207
+msgid "Blank ( a transparent PNG image )"
+msgstr "空白 ( 透明なPNG画像 )"
+
+#: um-config.php:216
+msgid "Use Default plugin avatar as Gravatar's Default avatar"
+msgstr ""
+"Gravatarのデフォルトアバターとしてデフォルトプラグインアバターを使用する"
+
+#: um-config.php:218
+msgid ""
+"Do you want to use the plugin default avatar instead of the gravatar default "
+"photo (If the user did not upload a custom profile photo / avatar)"
+msgstr ""
+"gravatarのデフォルト写真の代わりにプラグインのデフォルトアバターを使用します"
+"か(ユーザーがカスタムプロフィールの写真/アバターをアップロードしていない場合)"
+
+#: um-config.php:227
+msgid "Require a strong password? (when user resets password only)"
+msgstr ""
+"強力なパスワードが必要ですか? (ユーザーがパスワードをリセットした場合のみ)"
+
+#: um-config.php:229
+msgid ""
+"Enable or disable a strong password rules on password reset and change "
+"procedure"
+msgstr ""
+"パスワードのリセットと変更手順で強力なパスワードルールを有効、または無効にす"
+"る"
+
+#: um-config.php:230 um-config.php:240 um-config.php:264 um-config.php:274
+#: um-config.php:284 um-config.php:294 um-config.php:317 um-config.php:326
+#: um-config.php:337 um-config.php:347 um-config.php:357 um-config.php:931
+#: um-config.php:964 um-config.php:998 um-config.php:1424 um-config.php:1512
+#: um-config.php:1538 um-config.php:1593 um-config.php:1603 um-config.php:1613
+#: um-config.php:1623 um-config.php:1655 um-config.php:1665 um-config.php:1680
+#: um-config.php:1692 um-config.php:1739 um-config.php:1817 um-config.php:1919
+#: um-config.php:1947 um-config.php:1957 um-config.php:2004 um-config.php:2014
+#: um-config.php:2024 um-config.php:2047 um-config.php:2057 um-config.php:2067
+#: um-config.php:2077 um-config.php:2087 um-config.php:2097 um-config.php:2124
+#: um-config.php:2133
+msgid "On"
+msgstr ""
+
+#: um-config.php:231 um-config.php:241 um-config.php:265 um-config.php:275
+#: um-config.php:285 um-config.php:295 um-config.php:318 um-config.php:327
+#: um-config.php:338 um-config.php:348 um-config.php:358 um-config.php:932
+#: um-config.php:965 um-config.php:999 um-config.php:1425 um-config.php:1513
+#: um-config.php:1539 um-config.php:1594 um-config.php:1604 um-config.php:1614
+#: um-config.php:1624 um-config.php:1656 um-config.php:1666 um-config.php:1681
+#: um-config.php:1693 um-config.php:1740 um-config.php:1818 um-config.php:1920
+#: um-config.php:1948 um-config.php:1958 um-config.php:2005 um-config.php:2015
+#: um-config.php:2025 um-config.php:2048 um-config.php:2058 um-config.php:2068
+#: um-config.php:2078 um-config.php:2088 um-config.php:2098 um-config.php:2125
+#: um-config.php:2134
+msgid "Off"
+msgstr ""
+
+#: um-config.php:237
+msgid "Editable primary email field in profile view"
+msgstr "プロフィール表示で編集可能なプライマリEメールフィールド"
+
+#: um-config.php:239
+msgid ""
+"Allow users to edit their primary emails in profile view ( when email "
+"address field is added only )"
+msgstr ""
+"ユーザーがプロフィール表示でプライマリEメールを編集できるようにする(メールア"
+"ドレスフィールドが追加された場合のみ)"
+
+#: um-config.php:261
+msgid "Password Account Tab"
+msgstr "パスワードアカウントのタブ"
+
+#: um-config.php:271
+msgid "Privacy Account Tab"
+msgstr "プライバシーアカウントのタブ"
+
+#: um-config.php:273
+msgid "Enable/disable the Privacy account tab in account page"
+msgstr "アカウントページのプライバシーアカウントタブを有効/無効にする"
+
+#: um-config.php:281
+msgid "Notifications Account Tab"
+msgstr "通知アカウントのタブ"
+
+#: um-config.php:283
+msgid "Enable/disable the Notifications account tab in account page"
+msgstr "アカウントページの通知アカウントタブを有効/無効にする"
+
+#: um-config.php:291
+msgid "Delete Account Tab"
+msgstr "削除アカウントのタブ"
+
+#: um-config.php:293
+msgid "Enable/disable the Delete account tab in account page"
+msgstr "アカウントページの削除アカウントタブを有効/無効にする"
+
+#: um-config.php:301
+msgid "Account Deletion Custom Text"
+msgstr "アカウント削除のカスタムテキスト"
+
+#: um-config.php:302
+msgid ""
+"Are you sure you want to delete your account? This will erase all of your "
+"account data from the site. To delete your account enter your password below"
+msgstr ""
+"アカウントを削除してもよろしいですか? サイトからあなたの全アカウントデータが"
+"消去されます。アカウントを削除するには以下のパスワードを入力してください"
+
+#: um-config.php:303
+msgid ""
+"This is custom text that will be displayed to users before they delete their "
+"accounts from your site"
+msgstr ""
+"これはサイトからアカウントを削除する前にユーザーに表示されるカスタムテキスト"
+"です"
+
+#: um-config.php:314
+msgid "Add a First & Last Name fields"
+msgstr "名&姓 フィールドを追加します"
+
+#: um-config.php:316
+msgid ""
+"Whether to enable these fields on the user account page by default or hide "
+"them."
+msgstr ""
+"ユーザーアカウントページのこれらのフィールドをデフォルトで有効、または非表示"
+"する"
+
+#: um-config.php:323
+msgid "Require First & Last Name"
+msgstr "名&姓 フィールドを必須にする"
+
+#: um-config.php:325
+msgid "Require first and last name?"
+msgstr "名と姓フィールドを必須にしますか?"
+
+#: um-config.php:334
+msgid "Allow users to change e-mail"
+msgstr "ユーザーがEメールを変更できるようにする"
+
+#: um-config.php:336
+msgid "Whether to allow users changing their email in account page."
+msgstr "ユーザーがアカウントページでEメールを変更できるようにするかどうか"
+
+#: um-config.php:344
+msgid "Allow users to hide their profiles from directory"
+msgstr "ユーザーがディレクトリからプロフィールを非表示にすることを許可する"
+
+#: um-config.php:346
+msgid ""
+"Whether to allow users changing their profile visibility from member "
+"directory in account page."
+msgstr ""
+"ユーザーがアカウントページのメンバーディレクトリからプロフィールの表示を変更"
+"できるようにするかどうか"
+
+#: um-config.php:354
+msgid "Require a strong password?"
+msgstr "強力なパスワードが必要ですか?"
+
+#: um-config.php:356
+msgid ""
+"Enable or disable a strong password rules on account page / change password "
+"tab"
+msgstr ""
+"アカウントページのパスワード変更タブで強力なパスワードルールを有効、または無"
+"効にする"
+
+#: um-config.php:372
+msgid "Access"
+msgstr "アクセス"
+
+#: um-config.php:378
+msgid "Panic Key"
+msgstr ""
+
+#: um-config.php:379
+msgid ""
+"Panic Key is a random generated key that allow you to access the WordPress "
+"backend always regardless of backend settings."
+msgstr ""
+"Panic Keyはランダムに生成されたキーで、バックエンドの設定にかかわらず"
+"WordPressバックエンドに常にアクセスできます。"
+
+#: um-config.php:388
+msgid "Global Site Access"
+msgstr "グローバルサイトアクセス"
+
+#: um-config.php:390
+msgid ""
+"Globally control the access of your site, you can have seperate restrict "
+"options per post/page by editing the desired item."
+msgstr ""
+"サイトのアクセスをグローバルにコントロール、投稿/ページごとに必要に応じて項目"
+"を編集し、個別の制限オプションを設定することができます。"
+
+#: um-config.php:400
+msgid "Custom Redirect URL"
+msgstr "カスタムリダイレクトURL"
+
+#: um-config.php:401
+msgid ""
+"A logged out user will be redirected to this url If he is not permitted to "
+"access the site"
+msgstr ""
+"サイトへのアクセスを許可されていない場合、ログアウトしたユーザーはこのURLにリ"
+"ダイレクトされます。"
+
+#: um-config.php:409
+msgid "Exclude the following URLs"
+msgstr "次のURLを除外する"
+
+#: um-config.php:410
+msgid ""
+"Here you can exclude URLs beside the redirect URI to be accessible to "
+"everyone"
+msgstr ""
+"リダイレクトURIの横のURLをすべてのユーザーがアクセスできるように除外できます"
+
+#: um-config.php:411
+msgid "Add New URL"
+msgstr "新しいURLを追加"
+
+#: um-config.php:417
+msgid "Allow Homepage to be accessible"
+msgstr "ホームページにアクセスできるようにする"
+
+#: um-config.php:426
+msgid "Allow Category pages to be accessible"
+msgstr "カテゴリページにアクセスできるようにする"
+
+#: um-config.php:435
+msgid "Allow Backend Login Screen for Guests"
+msgstr "ゲストのバックエンドログイン画面を許可する"
+
+#: um-config.php:437
+msgid ""
+"Control whether guests are able to access the WP-admin login screen or not"
+msgstr "ゲストがwp-adminログイン画面にアクセスできるかどうかをコントロールする"
+
+#: um-config.php:445
+msgid "Disable Admin Login via Frontend"
+msgstr "フロントエンド経由で管理画面ログインを無効にする"
+
+#: um-config.php:447
+msgid ""
+"DO NOT turn this option on if you have set the option  \"Allow Backend Login "
+"Screen for Guests\" to NO. This will result in being locked out of admin."
+msgstr ""
+"「ゲストのバックエンドログイン画面を許可する」オプションを No に設定している"
+"場合は、このオプションを Yes にしないでください。管理画面から締め出されます。"
+
+#: um-config.php:456
+msgid "Redirect to alternative login page"
+msgstr "別のログインページにリダイレクトする"
+
+#: um-config.php:457
+msgid ""
+"If you disable backend access to login screen, specify here where a user "
+"will be redirected"
+msgstr ""
+"ログイン画面へのバックエンドアクセスを無効にする場合は、ここでユーザーをリダ"
+"イレクトする場所を指定します"
+
+#: um-config.php:469 um-config.php:501
+msgid "Custom URL"
+msgstr "カスタムURL"
+
+#: um-config.php:470 um-config.php:502
+msgid ""
+"Enter an alternate url here to redirect a user If they try to access the "
+"backend register screen"
+msgstr ""
+"バックエンド新規登録画面にアクセスした場合にユーザーをリダイレクトするための"
+"代替URLを入力する"
+
+#: um-config.php:477
+msgid "Allow Backend Register Screen for Guests"
+msgstr "ゲストのバックエンド新規登録画面を許可する"
+
+#: um-config.php:479
+msgid ""
+"Control whether guests are able to access the WP-admin register screen or not"
+msgstr "ゲストがwp-admin新規登録画面にアクセスできるかどうかをコントロールする"
+
+#: um-config.php:488
+msgid "Redirect to alternative register page"
+msgstr "代替の新規登録ページにリダイレクトする"
+
+#: um-config.php:489
+msgid ""
+"If you disable backend access to register screen, specify here where a user "
+"will be redirected"
+msgstr ""
+"新規登録画面へのバックエンドアクセスを無効にする場合は、ユーザーをリダイレク"
+"トする場所を指定します"
+
+#: um-config.php:509
+msgid "Enable the Access Control widget for Admins only?"
+msgstr "管理者専用のアクセスコントロールウィジェットを有効にしますか?"
+
+#: um-config.php:518
+msgid "Enable the Reset Password Limit?"
+msgstr "パスワードリセット回数の上限をを有効にしますか?"
+
+#: um-config.php:527
+msgid "Reset Password Limit"
+msgstr "パスワードリセット回数の上限"
+
+#: um-config.php:528
+msgid ""
+"Set the maximum reset password limit. If reached the maximum limit, user "
+"will be locked from using this."
+msgstr ""
+"パスワードリセット回数の最大上限を設定します。 最大限度に達すると、ユーザーは"
+"この機能によりロックされます。"
+
+#: um-config.php:538
+msgid "Disable the Reset Password Limit for Admins only?"
+msgstr "管理者のみリセットパスワードの上限を無効にしますか?"
+
+#: um-config.php:548
+msgid "Whitelisted Backend IPs"
+msgstr "ホワイトリストに登録したバックエンドIP"
+
+#: um-config.php:549
+msgid ""
+"Always allow the specified IP addresses to access the backend login screen "
+"and WP-admin to avoid being locked from site backend."
+msgstr ""
+"特定のIPアドレスがサイトバックエンドからロックされないように、バックエンドロ"
+"グイン画面とwp-adminに常にアクセスできるようにします。"
+
+#: um-config.php:555
+msgid "Blocked IP Addresses"
+msgstr "ブロックしたIPアドレス"
+
+#: um-config.php:556
+msgid ""
+"This will block the listed IPs from signing up or signing in to the site, "
+"you can use full IP numbers or target specific range with a wildcard"
+msgstr ""
+"リストされたIPのサイトへの新規登録やサインインがブロックされます。完全なIP番"
+"号を使用したり、ワイルドカードを使用して特定の範囲を指定することもできます"
+
+#: um-config.php:562
+msgid "Blocked Email Addresses"
+msgstr "ブロックしたEメールアドレス"
+
+#: um-config.php:563
+msgid ""
+"This will block the specified e-mail addresses from being able to sign up or "
+"sign in to your site. To block an entire domain, use something like *@domain."
+"com"
+msgstr ""
+"指定されたEメールアドレスがサイトに新規登録、またはサインインできなくなりま"
+"す。 ドメイン全体をブロックするには、*@domain.comのように使用します"
+
+#: um-config.php:569
+msgid "Blacklist Words"
+msgstr "ブロックしたワード"
+
+#: um-config.php:570
+msgid ""
+"This option lets you specify blacklist of words to prevent anyone from "
+"signing up with such a word as their username"
+msgstr ""
+"このオプションを使用すると、ブラックリストの単語を指定し、そのユーザー名など"
+"の単語で新規登録できないようにします"
+
+#: um-config.php:585
+msgid "Emails"
+msgstr "Eメール"
+
+#: um-config.php:591
+msgid "Mail appears from"
+msgstr "メールの送信者名"
+
+#: um-config.php:592
+msgid "e.g. Site Name"
+msgstr "例: サイト名"
+
+#: um-config.php:599
+msgid "Mail appears from address"
+msgstr "メールの送信アドレス"
+
+#: um-config.php:600 um-config.php:922
+msgid "e.g. admin@companyname.com"
+msgstr "例: admin@companyname.com"
+
+#: um-config.php:607
+msgid "Use HTML for E-mails?"
+msgstr "EメールにHTMLを使用しますか?"
+
+#: um-config.php:609
+msgid ""
+"If you enable HTML for e-mails, you can customize the HTML e-mail templates "
+"found in <strong>templates/email</strong> folder."
+msgstr ""
+"Eメール用のHTMLを有効にすると、<strong>templates/email</strong>フォルダにある"
+"HTML Eメールテンプレートをカスタマイズできます。"
+
+#: um-config.php:615 um-config.php:623 um-config.php:633
+msgid "Account Welcome Email"
+msgstr "アカウントの歓迎メール"
+
+#: um-config.php:617
+msgid ""
+"Whether to send the user an email when his account is automatically approved"
+msgstr "アカウントが自動承認された時にユーザーへEメールを送信するかどうか"
+
+#: um-config.php:624 um-config.php:659 um-config.php:691 um-config.php:723
+#: um-config.php:759 um-config.php:790 um-config.php:821 um-config.php:852
+#: um-config.php:884 um-config.php:939 um-config.php:972 um-config.php:1006
+msgid "Subject Line"
+msgstr "件名"
+
+#: um-config.php:627 um-config.php:662 um-config.php:694 um-config.php:726
+#: um-config.php:762 um-config.php:793 um-config.php:824 um-config.php:855
+#: um-config.php:887 um-config.php:942 um-config.php:975 um-config.php:1009
+msgid "This is the subject line of the e-mail"
+msgstr "Eメールの件名です"
+
+#: um-config.php:634 um-config.php:669 um-config.php:701 um-config.php:733
+#: um-config.php:769 um-config.php:800 um-config.php:831 um-config.php:862
+#: um-config.php:894 um-config.php:949 um-config.php:982 um-config.php:1016
+msgid "Message Body"
+msgstr "メッセージ本文"
+
+#: um-config.php:650 um-config.php:658 um-config.php:668
+msgid "Account Activation Email"
+msgstr "アカウントの有効化メール"
+
+#: um-config.php:652
+msgid ""
+"Whether to send the user an email when his account needs e-mail activation"
+msgstr ""
+"アカウントにEメールの有効化が必要な時にユーザーへEメールを送信するかどうか"
+
+#: um-config.php:682 um-config.php:690 um-config.php:700
+msgid "Pending Review Email"
+msgstr "承認待ちメール"
+
+#: um-config.php:684
+msgid "Whether to send the user an email when his account needs admin review"
+msgstr ""
+"アカウントに管理者の承認が必要な時にユーザーにEメールを送信するかどうか"
+
+#: um-config.php:714 um-config.php:722 um-config.php:732
+msgid "Account Approved Email"
+msgstr "アカウントの承認済みメール"
+
+#: um-config.php:716
+msgid "Whether to send the user an email when his account is approved"
+msgstr "アカウントが承認された時にユーザーへEメールを送信するかどうか"
+
+#: um-config.php:750 um-config.php:758 um-config.php:768
+msgid "Account Rejected Email"
+msgstr "アカウントの拒否済みメール"
+
+#: um-config.php:752
+msgid "Whether to send the user an email when his account is rejected"
+msgstr "アカウントが拒否された時にユーザーへEメールを送信するかどうか"
+
+#: um-config.php:781 um-config.php:789 um-config.php:799
+msgid "Account Deactivated Email"
+msgstr "アカウントの無効化メール"
+
+#: um-config.php:783
+msgid "Whether to send the user an email when his account is deactivated"
+msgstr "アカウントが無効になった時にユーザーへEメールを送信するかどうか"
+
+#: um-config.php:812 um-config.php:820 um-config.php:830
+msgid "Account Deleted Email"
+msgstr "アカウントの削除メール"
+
+#: um-config.php:814
+msgid "Whether to send the user an email when his account is deleted"
+msgstr "アカウントを削除した時にユーザーへEメールを送信するかどうか"
+
+#: um-config.php:843 um-config.php:851 um-config.php:861
+msgid "Password Reset Email"
+msgstr "パスワードのリセットメール"
+
+#: um-config.php:845
+msgid ""
+"Whether to send an email when users changed their password (Recommended, "
+"please keep on)"
+msgstr ""
+"ユーザーがパスワードを変更した時にEメールを送信するかどうか (推奨、オンのまま"
+"にしてください)"
+
+#: um-config.php:875 um-config.php:883 um-config.php:893
+msgid "Password Changed Email"
+msgstr "パスワードの変更メール"
+
+#: um-config.php:877
+msgid ""
+"Whether to send the user an email when he request to reset password "
+"(Recommended, please keep on)"
+msgstr ""
+"ユーザーがパスワードのリセットを要求した時にEメールを送信するかどうか (推奨、"
+"オンのままにしてください)"
+
+#: um-config.php:920
+msgid "Admin E-mail Address"
+msgstr "管理者Eメールアドレス"
+
+#: um-config.php:928 um-config.php:938 um-config.php:948
+msgid "New User Notification"
+msgstr "新規ユーザーの通知"
+
+#: um-config.php:930
+msgid "Whether to receive notification when a new user account is approved"
+msgstr "新しいユーザーアカウントが承認された時に通知を受け取るかどうか"
+
+#: um-config.php:955 um-config.php:989 um-config.php:1019
+msgid "This is the content of the e-mail"
+msgstr "Eメールの内容です"
+
+#: um-config.php:961 um-config.php:971 um-config.php:981
+msgid "Account Needs Review Notification"
+msgstr "アカウント承認申請の通知"
+
+#: um-config.php:963
+msgid "Whether to receive notification when an account needs admin review"
+msgstr "アカウントに管理者による承認が必要な時に通知を受け取るかどうか"
+
+#: um-config.php:995 um-config.php:1005 um-config.php:1015
+msgid "Account Deletion Notification"
+msgstr "アカウント削除の通知"
+
+#: um-config.php:997
+msgid "Whether to receive notification when an account is deleted"
+msgstr "アカウントが削除された時に通知を受け取るかどうか"
+
+#: um-config.php:1033
+msgid "Uploads"
+msgstr "アップロード"
+
+#: um-config.php:1039
+msgid "Profile Photo Maximum File Size (bytes)"
+msgstr "プロフィール写真の最大ファイルサイズ (bytes)"
+
+#: um-config.php:1040
+msgid "Sets a maximum size for the uploaded photo"
+msgstr "アップロードした写真の最大サイズを設定します"
+
+#: um-config.php:1047
+msgid "Cover Photo Maximum File Size (bytes)"
+msgstr "カバー写真の最大ファイルサイズ (bytes)"
+
+#: um-config.php:1048
+msgid "Sets a maximum size for the uploaded cover"
+msgstr "アップロードされたカバーの最大サイズを設定します"
+
+#: um-config.php:1055
+msgid "Profile Photo Thumbnail Sizes (px)"
+msgstr "プロフィール写真サムネイルサイズ (px)"
+
+#: um-config.php:1056
+msgid ""
+"Here you can define which thumbnail sizes will be created for each profile "
+"photo upload."
+msgstr ""
+"プロフィール写真のアップロードごとに作成するサムネイルサイズを定義します。"
+
+#: um-config.php:1059 um-config.php:1069
+msgid "Add New Size"
+msgstr "新しいサイズを追加"
+
+#: um-config.php:1065
+msgid "Cover Photo Thumbnail Sizes (px)"
+msgstr "カバー写真のサムネイルサイズ (px)"
+
+#: um-config.php:1066
+msgid ""
+"Here you can define which thumbnail sizes will be created for each cover "
+"photo upload."
+msgstr "カバー写真のアップロードごとに作成するサムネイルサイズを定義します。"
+
+#: um-config.php:1075
+msgid "Image Quality"
+msgstr "画像のクオリティー"
+
+#: um-config.php:1076
+msgid ""
+"Quality is used to determine quality of image uploads, and ranges from 0 "
+"(worst quality, smaller file) to 100 (best quality, biggest file). The "
+"default range is 60."
+msgstr ""
+"クオリティーは、画像アップロードの品質を決定するために使用され、0 (最悪品質、"
+"最小ファイル)から100 (最高品質、最大ファイル)までの範囲です。 デフォルト範囲"
+"は60です。"
+
+#: um-config.php:1084
+msgid "Image Upload Maximum Width (px)"
+msgstr "画像アップロードの最大幅 (px)"
+
+#: um-config.php:1085
+msgid ""
+"Any image upload above this width will be resized to this limit "
+"automatically."
+msgstr ""
+"この幅を超えてアップロードされた画像は、自動で制限されるようにリサイズされま"
+"す。"
+
+#: um-config.php:1093
+msgid "Cover Photo Minimum Width (px)"
+msgstr "カバー写真の最小幅 (px)"
+
+#: um-config.php:1094
+msgid "This will be the minimum width for cover photo uploads"
+msgstr "カバー写真アップロードの最小幅になります"
+
+#: um-config.php:1110
+msgid "SEO"
+msgstr "SEO"
+
+#: um-config.php:1116
+msgid "User Profile Title"
+msgstr "ユーザーのプロフィールタイトル"
+
+#: um-config.php:1118
+msgid "This is the title that is displayed on a specific user profile"
+msgstr "固有のユーザープロフィールに表示されるタイトルです"
+
+#: um-config.php:1125
+msgid "User Profile Dynamic Meta Description"
+msgstr "ユーザープロフィールの動的な meta description"
+
+#: um-config.php:1126
+msgid ""
+"This will be used in the meta description that is available for search-"
+"engines."
+msgstr "検索エンジンで利用可能な meta descriptionで使用されます。"
+
+#: um-config.php:1140
+msgid "Appearance"
+msgstr "外観"
+
+#: um-config.php:1150
+msgid "General"
+msgstr "一般"
+
+#: um-config.php:1157
+msgid "Members Default Template"
+msgstr "メンバーのデフォルトテンプレート"
+
+#: um-config.php:1158
+msgid "This will be the default template to output member directory"
+msgstr "メンバーディレクトリを出力するためのデフォルトテンプレートになります"
+
+#: um-config.php:1168
+msgid "General Active Color"
+msgstr "一般的なアクティブカラー"
+
+#: um-config.php:1170
+msgid ""
+"Active color is used commonly with many plugin elements as highlighted color "
+"or active selection for example. This color demonstrates the primary active "
+"color of the plugin"
+msgstr ""
+"アクティブカラーは、多くのプラグイン要素で強調表示された色やアクティブな選択"
+"などに共通して使用されます。 この色は、プラグインのプライマリなアクティブカ"
+"ラーを示します"
+
+#: um-config.php:1178
+msgid "General Secondary Color"
+msgstr "一般的なセカンダリカラー"
+
+#: um-config.php:1180
+msgid ""
+"Secondary color is used for hovers, or active state for some elements of the "
+"plugin"
+msgstr ""
+"セカンダリカラーはホバーやプラグインの一部の要素のアクティブな状態で使用され"
+"ます"
+
+#: um-config.php:1188
+msgid "Default Primary Button Color"
+msgstr "デフォルトのプライマリボタンカラー"
+
+#: um-config.php:1197
+msgid "Default Primary Button Hover Color"
+msgstr "デフォルトのプライマリボタンホバーカラー"
+
+#: um-config.php:1206
+msgid "Default Primary Button Text Color"
+msgstr "デフォルトのプライマリボタンテキストカラー"
+
+#: um-config.php:1215
+msgid "Default Secondary Button Color"
+msgstr "デフォルトのセカンダリボタンカラー"
+
+#: um-config.php:1224
+msgid "Default Secondary Button Hover Color"
+msgstr "デフォルトのセカンダリボタンホバーカラー"
+
+#: um-config.php:1233
+msgid "Default Secondary Button Text Color"
+msgstr "デフォルトのセカンダリボタンテキストカラー"
+
+#: um-config.php:1242
+msgid "Default Help Icon Color"
+msgstr "デフォルトのヘルプアイコンカラー"
+
+#: um-config.php:1254
+msgid "Form Inputs"
+msgstr "フォーム入力"
+
+#: um-config.php:1261
+msgid "Field Label Color"
+msgstr "フィールドラベルカラー"
+
+#: um-config.php:1269
+msgid "Field Border"
+msgstr "フィールドボーダー"
+
+#: um-config.php:1271
+msgid "The default border-style for input/fields in UM forms"
+msgstr "UMフォーム入力/フィールドのデフォルトボーダースタイル"
+
+#: um-config.php:1277
+msgid "Field Border on Focus"
+msgstr "フォーカス時のフィールドボーダー"
+
+#: um-config.php:1279
+msgid "The default border style for fields on hover state"
+msgstr "ホバーされているフィールドのデフォルトボーダースタイル"
+
+#: um-config.php:1286
+msgid "Field Background Color"
+msgstr "フィールド背景色"
+
+#: um-config.php:1295
+msgid "Field Background Color on Focus"
+msgstr "フォーカス時のフィールド背景色"
+
+#: um-config.php:1304
+msgid "Field Text Color"
+msgstr "フィールドテキストカラー"
+
+#: um-config.php:1313
+msgid "Field Placeholder Color"
+msgstr "フィールドプレースホルダーカラー"
+
+#: um-config.php:1322
+msgid "Field Font Icon Color"
+msgstr "フィールドフォントアイコンカラー"
+
+#: um-config.php:1330
+msgid "Show an asterisk for required fields"
+msgstr "必須フィールドにアスタリスクを表示する"
+
+#: um-config.php:1340
+msgid "Field Required Asterisk Color"
+msgstr "必須フィールドのアスタリスクカラー"
+
+#: um-config.php:1353
+msgid "Profile"
+msgstr "プロフィール"
+
+#: um-config.php:1360
+msgid "Profile Default Template"
+msgstr "プロフィールのデフォルトテンプレート"
+
+#: um-config.php:1361
+msgid "This will be the default template to output profile"
+msgstr "プロフィールを出力するためのデフォルトテンプレートになります"
+
+#: um-config.php:1369
+msgid "Profile Maximum Width"
+msgstr "プロフィールの最大幅"
+
+#: um-config.php:1377
+msgid "Profile Area Maximum Width"
+msgstr "プロフィールのエリア最大幅"
+
+#: um-config.php:1379
+msgid ""
+"The maximum width of the profile area inside profile (below profile header)"
+msgstr ""
+"プロフィールの中のプロフィールエリアの最大幅（プロフィールヘッダーの下）"
+
+#: um-config.php:1386
+msgid "Profile Shortcode Alignment"
+msgstr "プロフィールショートコードの配置"
+
+#: um-config.php:1390 um-config.php:1783 um-config.php:1885
+msgid "Centered"
+msgstr "中央揃え"
+
+#: um-config.php:1391 um-config.php:1784 um-config.php:1886
+msgid "Left aligned"
+msgstr "左揃え"
+
+#: um-config.php:1392 um-config.php:1785 um-config.php:1887
+msgid "Right aligned"
+msgstr "右揃え"
+
+#: um-config.php:1400
+msgid "Profile Field Icons"
+msgstr "プロフィールのフィールドアイコン"
+
+#: um-config.php:1401
+msgid "This is applicable for edit mode only"
+msgstr "これは編集モードのみに適用されます"
+
+#: um-config.php:1404 um-config.php:1797 um-config.php:1899
+msgid "Show inside text field"
+msgstr "テキストフィールド内に表示"
+
+#: um-config.php:1405 um-config.php:1798 um-config.php:1900
+msgid "Show with label"
+msgstr "ラベルと合わせて表示"
+
+#: um-config.php:1406 um-config.php:1799 um-config.php:1901
+msgid "Turn off"
+msgstr "オフにする"
+
+#: um-config.php:1413
+msgid "Profile Primary Button Text"
+msgstr "プロフィールのプライマリボタンテキスト"
+
+#: um-config.php:1415
+msgid "The text that is used for updating profile button"
+msgstr "プロフィールの更新ボタンに使用されるテキスト"
+
+#: um-config.php:1421
+msgid "Profile Secondary Button"
+msgstr "プロフィールのセカンダリボタン"
+
+#: um-config.php:1423 um-config.php:1816 um-config.php:1918
+msgid "Switch on/off the secondary button display in the form"
+msgstr "フォームにあるセカンダリボタン表示のオン/オフを切り替えます"
+
+#: um-config.php:1431
+msgid "Profile Secondary Button Text"
+msgstr "プロフィールのセカンダリボタンテキスト"
+
+#: um-config.php:1433
+msgid "The text that is used for cancelling update profile button"
+msgstr "プロフィール更新をのキャンセルボタンに使用されるテキスト"
+
+#: um-config.php:1441
+msgid "Profile Associated Role"
+msgstr "プロフィールに関連付けられた権限グループ"
+
+#: um-config.php:1442
+msgid ""
+"Normally, you can leave this to default as this restricts the profile per "
+"specified role only"
+msgstr ""
+"通常、指定された権限グループごとのプロフィールのみが制限されるため、これをデ"
+"フォルトのままにすることができます"
+
+#: um-config.php:1451
+msgid "Profile Base Background Color"
+msgstr "プロフィールのベース背景色"
+
+#: um-config.php:1460
+msgid "Profile Header Background Color"
+msgstr "プロフィールのヘッダー背景色"
+
+#: um-config.php:1468
+msgid "Default Profile Photo"
+msgstr "デフォルトのプロフィール写真"
+
+#: um-config.php:1469
+msgid ""
+"You can change the default profile picture globally here. Please make sure "
+"that the photo is 300x300px."
+msgstr ""
+"デフォルトのプロフィール画像を共通で変更することができます。 写真が "
+"300x300px であることを確認してください。"
+
+#: um-config.php:1480
+msgid "Default Cover Photo"
+msgstr "デフォルトのカバー写真"
+
+#: um-config.php:1481
+msgid ""
+"You can change the default cover photo globally here. Please make sure that "
+"the default cover is large enough and respects the ratio you are using for "
+"cover photos."
+msgstr ""
+"デフォルトのカバー写真を共通で変更することができます。 デフォルトのカバーが十"
+"分に大きく、使用しているカバー写真の比率に注意してください。"
+
+#: um-config.php:1489
+msgid ""
+"The global default of profile photo size. This can be overridden by "
+"individual form settings"
+msgstr ""
+"共通デフォルトのプロフィール写真サイズ。 個々のフォーム設定で上書きすることが"
+"できます"
+
+#: um-config.php:1497
+msgid ""
+"Whether to have rounded profile images, rounded corners, or none for the "
+"profile photo"
+msgstr "プロフィール写真にサークル、角丸、加工なしの表示にするかどうか"
+
+#: um-config.php:1509
+msgid "Profile Cover Photos"
+msgstr "プロフィールカバー写真"
+
+#: um-config.php:1511
+msgid "Switch on/off the profile cover photos"
+msgstr "プロフィールカバー写真のオン/オフを切り替えます"
+
+#: um-config.php:1520
+msgid "Profile Cover Ratio"
+msgstr "プロフィールカバーの比率"
+
+#: um-config.php:1521
+msgid "Choose global ratio for cover photos of profiles"
+msgstr "プロフィールカバー写真の共通比率を選択"
+
+#: um-config.php:1535
+msgid "Profile Header Meta Text Icon"
+msgstr "プロフィールヘッダーのメタテキストアイコン"
+
+#: um-config.php:1537
+msgid "Display field icons for related user meta fields in header or not"
+msgstr ""
+"ヘッダーのユーザーメタ情報フィールドに関連するフィールドアイコンを表示するか"
+"どうか"
+
+#: um-config.php:1546
+msgid "Profile Header Meta Text Color"
+msgstr "プロフィールヘッダーのmetaテキストカラー"
+
+#: um-config.php:1555
+msgid "Profile Header Link Color"
+msgstr "プロフィールヘッダーのリンクカラー"
+
+#: um-config.php:1564
+msgid "Profile Header Link Hover"
+msgstr "プロフィールヘッダーのリンクホバー"
+
+#: um-config.php:1573
+msgid "Profile Header Icon Link Color"
+msgstr "プロフィールヘッダーのアイコンリンクカラー"
+
+#: um-config.php:1582
+msgid "Profile Header Icon Link Hover"
+msgstr "プロフィールヘッダーのアイコンリンクホバー"
+
+#: um-config.php:1590
+msgid "Show display name in profile header"
+msgstr "プロフィールヘッダーに表示名を表示する"
+
+#: um-config.php:1592
+msgid "Switch on/off the user name on profile header"
+msgstr "プロフィールヘッダーにあるユーザー名のオン/オフを切り替えます"
+
+#: um-config.php:1600
+msgid "Show social links in profile header"
+msgstr "プロフィールヘッダーにソーシャルリンクを表示する"
+
+#: um-config.php:1602
+msgid "Switch on/off the social links on profile header"
+msgstr "プロフィールヘッダーにあるソーシャルリンクのオン/オフを切り替えます"
+
+#: um-config.php:1610
+msgid "Show user description in header"
+msgstr "ヘッダーにユーザーの説明文を表示する"
+
+#: um-config.php:1612
+msgid "Switch on/off the user description on profile header"
+msgstr "プロフフィールヘッダーにあるユーザー説明文のオン/オフに切り替えます"
+
+#: um-config.php:1620
+msgid "Enable html support for user description"
+msgstr "ユーザー説明文のHTMLサポートを有効にする"
+
+#: um-config.php:1622
+msgid ""
+"Switch on/off to enable/disable support for html tags on user description."
+msgstr ""
+"ユーザー説明文のhtmlタグのサポートのオン/オフを切り替えて有効/無効にします。"
+
+#: um-config.php:1630
+msgid "User description maximum chars"
+msgstr "ユーザー説明文の最大文字数"
+
+#: um-config.php:1632
+msgid ""
+"Maximum number of characters to allow in user description field in header."
+msgstr "ヘッダーのユーザー説明文フィールドで許可される最大文字数。"
+
+#: um-config.php:1639
+msgid "Profile Header Menu Position"
+msgstr "プロフィールヘッダーメニューの位置"
+
+#: um-config.php:1641
+msgid ""
+"For incompatible themes, please make the menu open from left instead of "
+"bottom by default."
+msgstr ""
+"互換性のないテーマの場合、デフォルトでは左側の下へメニューを開いてください。"
+
+#: um-config.php:1652
+msgid "Show a custom message if profile is empty"
+msgstr "プロフィールが空の場合にカスタムメッセージを表示する"
+
+#: um-config.php:1654
+msgid "Switch on/off the custom message that appears when the profile is empty"
+msgstr ""
+"プロフフィールが空の時に表示されるカスタムメッセージのオン/オフを切り替えます"
+
+#: um-config.php:1662
+msgid "Show the emoticon"
+msgstr "顔文字を表示する"
+
+#: um-config.php:1664
+msgid "Switch on/off the emoticon (sad face) that appears above the message"
+msgstr "メッセージの上に表示される顔文字(悲しい顔)のオン/オフを切り替えます"
+
+#: um-config.php:1678
+msgid "Enable profile menu"
+msgstr "プロフィールメニューを有効にする"
+
+#: um-config.php:1689
+#, php-format
+msgid "%s Tab"
+msgstr "%s タブ"
+
+#: um-config.php:1700
+#, php-format
+msgid "Who can see %s Tab?"
+msgstr "誰が %s タブを見られますか?"
+
+#: um-config.php:1701
+msgid "Select which users can view this tab."
+msgstr "このタブを表示できるユーザーを選択します。"
+
+#: um-config.php:1712
+msgid "Allowed roles"
+msgstr "許可された権限グループ"
+
+#: um-config.php:1713
+msgid "Select the the user roles allowed to view this tab."
+msgstr "このタブを表示できるユーザー権限グループを選択します。"
+
+#: um-config.php:1716
+msgid "Choose user roles..."
+msgstr "ユーザー権限グループを選択..."
+
+#: um-config.php:1726
+msgid "Profile menu default tab"
+msgstr "プロフィールメニューのデフォルトタブ"
+
+#: um-config.php:1727
+msgid "This will be the default tab on user profile page"
+msgstr "ユーザープロフィールページのデフォルトタブになります"
+
+#: um-config.php:1736
+msgid "Enable menu icons in desktop view"
+msgstr "デスクトップビューでメニューアイコンを有効にする"
+
+#: um-config.php:1746
+msgid "Profile Menu"
+msgstr "プロフィールメニュー"
+
+#: um-config.php:1761
+msgid "Registration Default Template"
+msgstr "新規登録のデフォルトテンプレート"
+
+#: um-config.php:1762
+msgid "This will be the default template to output registration"
+msgstr "新規登録を出力するためのデフォルトテンプレートになります"
+
+#: um-config.php:1770
+msgid "Registration Maximum Width"
+msgstr "新規登録の最大幅"
+
+#: um-config.php:1772 um-config.php:1874
+msgid "The maximum width this shortcode can take from the page width"
+msgstr "このショートコード最大幅はページ幅から取ることができます"
+
+#: um-config.php:1779
+msgid "Registration Shortcode Alignment"
+msgstr "新規登録ショートコードの配置"
+
+#: um-config.php:1793
+msgid "Registration Field Icons"
+msgstr "新規登録のフィールドアイコン"
+
+#: um-config.php:1794
+msgid "This controls the display of field icons in the registration form"
+msgstr "新規登録フォームにあるフィールドアイコンの表示をコントロールします"
+
+#: um-config.php:1806
+msgid "Registration Primary Button Text"
+msgstr "新規登録のプライマリボタンテキスト"
+
+#: um-config.php:1808 um-config.php:1910
+msgid "The text that is used for primary button text"
+msgstr "プライマリボタンに使用されるテキスト"
+
+#: um-config.php:1814
+msgid "Registration Secondary Button"
+msgstr "新規登録のセカンダリボタン"
+
+#: um-config.php:1824
+msgid "Registration Secondary Button Text"
+msgstr "新規登録のセカンダリボタンテキスト"
+
+#: um-config.php:1826 um-config.php:1928
+msgid "The text that is used for the secondary button text"
+msgstr "セカンダリボタンに使用されるテキスト"
+
+#: um-config.php:1833
+msgid "Registration Secondary Button URL"
+msgstr "新規登録のセカンダリボタンURL"
+
+#: um-config.php:1835 um-config.php:1937
+msgid "You can replace default link for this button by entering custom URL"
+msgstr "カスタムURLを入力して、ボタンのデフォルトリンクを置き換えます"
+
+#: um-config.php:1843
+msgid "Registration Default Role"
+msgstr "新規登録のデフォルト権限グループ"
+
+#: um-config.php:1844
+msgid ""
+"This will be the default role assigned to users registering thru "
+"registration form"
+msgstr ""
+"フォームで新規登録するユーザーに割り当てるデフォルト権限グループになります"
+
+#: um-config.php:1863
+msgid "Login Default Template"
+msgstr "ログインのデフォルトテンプレート"
+
+#: um-config.php:1864
+msgid "This will be the default template to output login"
+msgstr "ログインを出力するためのデフォルトテンプレートになります"
+
+#: um-config.php:1872
+msgid "Login Maximum Width"
+msgstr "ログインの最大幅"
+
+#: um-config.php:1881
+msgid "Login Shortcode Alignment"
+msgstr "ログインショートコードの配置"
+
+#: um-config.php:1895
+msgid "Login Field Icons"
+msgstr "ログインのフィールドアイコン"
+
+#: um-config.php:1896
+msgid "This controls the display of field icons in the login form"
+msgstr "ログインフォームにあるフィールドアイコンの表示をコントロールします"
+
+#: um-config.php:1908
+msgid "Login Primary Button Text"
+msgstr "ログインのプライマリボタンテキスト"
+
+#: um-config.php:1916
+msgid "Login Secondary Button"
+msgstr "ログインのセカンダリボタン"
+
+#: um-config.php:1926
+msgid "Login Secondary Button Text"
+msgstr "ログインのセカンダリボタンテキスト"
+
+#: um-config.php:1935
+msgid "Login Secondary Button URL"
+msgstr "ログインのセカンダリボタンURL"
+
+#: um-config.php:1944
+msgid "Login Forgot Password Link"
+msgstr "ログインの パスワードをお忘れですか? リンク"
+
+#: um-config.php:1946
+msgid "Switch on/off the forgot password link in login form"
+msgstr "ログインフォームでパスワードを忘れたリンクのオン/オフを切り替えます"
+
+#: um-config.php:1954
+msgid "Show \"Remember Me\""
+msgstr "\"ログイン状態を保存する\"を表示しますか?"
+
+#: um-config.php:1956
+msgid ""
+"Allow users to choose If they want to stay signed in even after closing the "
+"browser. If you do not show this option, the default will be to not remember "
+"login session."
+msgstr ""
+"ブラウザを閉じた後でもログインしたままにしておきたい場合にユーザーが選択でき"
+"るようにします。 このオプションを表示しないと、デフォルトではログインセッショ"
+"ンを保存しません。"
+
+#: um-config.php:1976
+msgid ""
+"Any custom css rules that you specify here will be applied globally to the "
+"plugin."
+msgstr "指定するカスタムCSSルールは、プラグインに共通で適用されます。"
+
+#: um-config.php:1994
+msgid "Import & Export Settings"
+msgstr "インポート&エクスポート設定"
+
+#: um-config.php:2001
+msgid "Stop caching user's profile data"
+msgstr "ユーザーのプロフィールデータのキャッシュを停止する"
+
+#: um-config.php:2003
+msgid "Turn off If you have performance issue."
+msgstr "パフォーマンスに問題がある場合はオフにします。"
+
+#: um-config.php:2011
+msgid "Stop rewriting rules on every load"
+msgstr "すべての読み込みでルールの書き換えを停止する"
+
+#: um-config.php:2013
+msgid ""
+"Turn on If you have performance issue and are not getting 404 error/"
+"conflicts with other plugins/themes."
+msgstr ""
+"パフォーマンスの問題で他のプラグイン/テーマとの404エラー/競合がない場合にオン"
+"にします。"
+
+#: um-config.php:2021
+msgid "Stop generating profile slugs in member directory"
+msgstr "メンバーディレクトリでプロフィールスラッグの生成を停止する"
+
+#: um-config.php:2023
+msgid "Turn on If you have performance issue in member directory."
+msgstr "メンバーディレクトリにパフォーマンスの問題がある場合はオンにします。"
+
+#: um-config.php:2032
+msgid "Current URL Method"
+msgstr "現在のURL仕様"
+
+#: um-config.php:2033
+msgid ""
+"Change this If you are having conflicts with profile links or redirections."
+msgstr "プロフィールリンクやリダイレクトと競合している場合に変更します。"
+
+#: um-config.php:2036
+msgid "Use SERVER_NAME"
+msgstr "SERVER_NAME を使う"
+
+#: um-config.php:2037
+msgid "Use HTTP_HOST"
+msgstr "HTTP_HOST を使う"
+
+#: um-config.php:2044
+msgid "Allow Port forwarding in URL"
+msgstr "URLでポート転送を許可する"
+
+#: um-config.php:2046
+msgid "Turn on If you want to include port number in URLs"
+msgstr "URLでポート番号を含める場合にオンにします"
+
+#: um-config.php:2054
+msgid "Force Strings to UTF-8 Encoding"
+msgstr "文字列をUTF-8エンコーディングに強制する"
+
+#: um-config.php:2056
+msgid "Turn on If you want to force labels and fields to use UTF-8 encoding"
+msgstr "ラベルとフィールドでUTF-8エンコーディングを使用する場合にオンにします"
+
+#: um-config.php:2064
+msgid "Enable Time Check Security"
+msgstr "タイムチェックセキュリティを有効にする"
+
+#: um-config.php:2066
+msgid ""
+"Turn this option off if you have a conflict with other plugins causing a "
+"spam bot message to appear unexpectedly."
+msgstr ""
+"他のプラグインと競合している場合、このオプションをオフにすると迷惑メールボッ"
+"トからメッセージが表示される可能性があります。"
+
+#: um-config.php:2074
+msgid "Disable JS/CSS Compression"
+msgstr "JS/CSS圧縮を無効にする"
+
+#: um-config.php:2076
+msgid ""
+"Not recommended. This will load all plugin js and css files separately and "
+"may slow down your website. Use this setting for development or debugging "
+"purposes only."
+msgstr ""
+"お勧めしません。すべてのプラグインjsとcssファイルが別々に読み込まれ、ウェブサ"
+"イトが遅くなる可能性があります。 この設定は、開発、またはデバッグの目的でのみ"
+"使用してください。"
+
+#: um-config.php:2084
+msgid "Disable Nav Menu Settings"
+msgstr "ナビゲーションメニューの設定を無効にする"
+
+#: um-config.php:2086
+msgid ""
+"This can disable the settings that appear in nav menus to apply custom "
+"access settings to nav items."
+msgstr ""
+"ナビゲーションメニューの表示設定が無効になり、ナビゲーション項目にカスタムア"
+"クセス設定が適用されます。"
+
+#: um-config.php:2094
+msgid "Never load plugin JS and CSS on homepage"
+msgstr "ホームページでプラグインJSとCSSを読み込まない"
+
+#: um-config.php:2096
+msgid "This can disable loading plugin js and css files on home page."
+msgstr "ホームページにプラグインjsおよびcssファイルをロードできなくなります。"
+
+#: um-config.php:2105
+msgid "Never load plugin JS and CSS on the following pages"
+msgstr "次のページでプラグインJSとCSSを読み込まない"
+
+#: um-config.php:2106
+msgid ""
+"Enter a url or page slug (e.g /about/) to disable loading the plugin's css "
+"and js on that page."
+msgstr ""
+"そのページでプラグインのcssとjsの読み込みを無効にするには、URL、またはページ"
+"スラッグ ( 例: /about/ )を入力します。"
+
+#: um-config.php:2107 um-config.php:2116
+msgid "Add New Page"
+msgstr "新しいページを追加"
+
+#: um-config.php:2114
+msgid "Only load plugin JS and CSS on the following pages"
+msgstr "次のページでのみ、プラグインJSとCSSをロードします"
+
+#: um-config.php:2115
+msgid ""
+"Enter a url or page slug (e.g /about/) to enable loading the plugin's css "
+"and js on that page."
+msgstr ""
+"そのページでプラグインのcssとjsを読み込むには、URL、またはページスラッグ "
+"( 例: /about/ )を入力します。"
+
+#: um-config.php:2122
+msgid "Enable custom css tab?"
+msgstr "カスタムCSSタブを有効にしますか?"
+
+#: um-config.php:2131
+msgid "Allow Tracking"
+msgstr "トラッキングを許可する"
+
+#: um-config.php:2144
+msgid "Network Permalink Structure"
+msgstr "ネットワークのパーマリンク構造"
+
+#: um-config.php:2145
+msgid ""
+"Change this If you are having conflicts with profile links or redirections "
+"in a multisite setup."
+msgstr ""
+"マルチサイト設定でプロフィールリンク、またはリダイレクトと競合している場合"
+"は、これを変更します"
+
+#: um-config.php:2148
+msgid "Sub-Domain"
+msgstr "サブドメイン"
+
+#: um-config.php:2149
+msgid "Sub-Directory"
+msgstr "サブディレクトリ"
+
+#: um-config.php:2157
+msgid "Advanced"
+msgstr "詳細設定"
+
+#: um-init.php:52
+msgid "BuddyPress Avatar Transfer"
+msgstr "BuddyPressアバターを転送する"
+
+#: um-init.php:53
+msgid ""
+"This add-on enables you to migrate your custom user photos from BuddyPress "
+"to use with Ultimate Member."
+msgstr ""
+"このアドオンを使用すると、BuddyPressのカスタムユーザー写真をUltimate Memberで"
+"使用することができます。"
+
+#: um-init.php:57
+msgid "Gravatar Transfer"
+msgstr "Gravatarを転送する"
+
+#: um-init.php:58
+msgid ""
+"This add-on enables you to link gravatar photos to user accounts with their "
+"email address."
+msgstr ""
+"このアドオンを使用すると、gravatar写真をメールアドレスでユーザーアカウントに"
+"リンクすることができます。"
+
+#: um-init.php:62
+msgid "Generate Dummies"
+msgstr "ダミーを生成する"
+
+#: um-init.php:63
+msgid "This add-on enables you to generate dummies."
+msgstr "このアドオンを使用すると、ダミーを生成できます。"
+
+#: um-init.php:67
+msgid "System Info"
+msgstr "システム情報"
+
+#: um-init.php:68
+msgid "This add-on enables you to download system information file."
+msgstr "このアドオンを使用すると、システム情報ファイルをダウンロードできます。"
+
+#~ msgid "outdatedBrowser_page_message"
+#~ msgstr ""
+#~ "The site you are visiting can only be viewed using a modern browser. "
+#~ "Please upgrade your browser to increase safety and your browsing "
+#~ "experience. Choose one of the browsers above. If you don't care <a href="
+#~ "\"?forwardOutdatedBrowser=1\">click here</a>"
+
+#~ msgid "404_page_message"
+#~ msgstr ""
+#~ "The Page you are looking for doesn't exist or an other error occurred. <a "
+#~ "href=\"javascript:history.go(-1)\">Go back</a>, or head over to <a href="
+#~ "\"%s\">%s</a> to choose a new direction."
